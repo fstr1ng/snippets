@@ -1,0 +1,154 @@
+/* ************************************************************************** */
+/* COMMON */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    padding: 0;
+    margin: 0;
+
+    max-width:100%;
+    max-height:100%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+p, h1, h2 {
+    color: #bebebe;
+}
+
+.grid{
+    display: grid;
+}
+
+h3 {
+    color: #707070;
+    font-style: italic;
+    font-size: 1em;
+    margin-top: 5px;
+}
+
+/* ************************************************************************** */
+/* HEADER */
+
+.logo {
+    grid-area: logo;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+    justify-items: center;
+    margin: 8px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.logo span {
+    padding-left: 10px;
+}
+
+.menu {
+    grid-area: menu;
+    grid-template-columns: repeat(4, 1fr);
+    align-content: stretch;
+    grid-gap: 5px;
+}
+
+.menuButton {
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+    background: #272829;
+    border-radius: 5px;
+}
+
+.header {
+    grid-area: header;
+    background: #2d2d2d;
+    grid-template-areas: "logo menu";
+    grid-template-columns: 150px 1fr;
+}
+
+/* ************************************************************************** */
+/* MAIN */
+
+.main {
+    grid-area: main;
+    background: #414141;
+}
+
+.intro{
+    padding: 10px;
+    background: #626262;
+}
+
+.articles {
+    margin: 10px;
+    grid-gap: 10px;
+
+}
+
+.article {
+    border-left: 5px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background: #2d2d2d;
+}
+
+/* ************************************************************************** */
+/* RGHT MENU */
+
+.right {
+    grid-area: right;
+    grid-gap: 5px;
+    background: #32464b;
+    align-content: start;
+}
+
+.rightButton {
+    padding: 5px;
+    background: #27383c;
+    border-left: 5px solid black;
+}
+
+/* ************************************************************************** */
+/* FOOTER */
+
+.footer {
+    grid-area: footer;
+    background:  #283d44;
+    align-items: center;
+}
+
+/* ************************************************************************** */
+/* BODY CONTAINER */
+.container {
+    display: grid;
+    grid-template-areas: "header header header"
+                         "main main right"
+                         "footer footer footer";
+    grid-template-columns: 1fr 1fr 150px;
+    grid-template-rows: 70px 1fr 30px;
+    min-height: 100vh;
+}
+
+/* ************************************************************************** */
+/* ADAPTIVITY */
+
+@media screen and (max-width: 600px) {
+    .container {
+        grid-template-areas: "header"
+                             "main"
+                             "right"
+                             "footer";
+        grid-template-columns: 100%;
+        grid-template-rows: 45px 1fr 50px 30px;
+    }
+}

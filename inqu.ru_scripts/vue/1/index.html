@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Vue 1</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <script type="text/javascript" src="https://ru.vuejs.org/js/vue.js"></script>
+    </head>
+
+    <body>
+
+        <div id="app">
+            <h1 v-once>{{ title }}</h1>
+            <p> {{ sayHello() }}</p>
+            <hr>
+
+            <a :href="link">Home</a>
+            <p v-html="finishedLink"></p>
+            <hr>
+
+            <button @click="change(1)">+1</button>
+            <button @click="change(-1)">-1</button>
+            <button @click="counter *= 2">×2</button>
+            <input type="number" v-model="increment">
+            <button @click="counter += parseInt(increment)">Add</button>
+            <button @click="counter = 0">Clear</button>
+            <p>{{ counter }}</p>
+            <p>Result: {{ output }}</p>
+            <hr>
+
+            <p @mousemove="updateCoordinates">Coordinates: {{ x }} / {{ y }} - <span @mousemove.stop>DEAD_SPOT</span> </p>
+            <hr>
+            <input type="text" placeholder="Type and hit enter" v-model="userType" @keyup.enter="alertMe">
+        </div>
+
+        <script type="text/javascript" src="main.js"></script>
+
+    </body>
+
+</html>

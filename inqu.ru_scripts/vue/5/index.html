@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue 5</title>
+    <script type="text/javascript" src="https://ru.vuejs.org/js/vue.js"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+    <div id="app">
+        <ul>
+            <li v-for="(item, i) in items" :key="item">{{ item }} ({{ i }})</li>
+        </ul>
+        <hr>
+        <button @click="items.push('vodka')">Add Vodka</button>
+        <template v-for="(item, i) in items">
+            <h3>{{ item }}</h3>
+            <p>{{ i }}</p>
+        </template>
+        <hr>
+
+        <ul>
+            <li v-for="person in persons">
+                <div v-for="(value, key, index) in person">{{ index }} {{ key }}: {{ value }}</div>
+            </li>
+        </ul>
+        <hr>
+
+        <div v-for="n in 10">{{ n }}</div>
+    </div>
+
+    <a href="https://inqu.ru">Home</a>
+    <script type="text/javascript" src="main.js"></script>
+</body>
+
+</html>

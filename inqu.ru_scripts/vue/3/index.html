@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Vue 3</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <script type="text/javascript" src="https://ru.vuejs.org/js/vue.js"></script>
+    </head>
+
+    <body>
+
+        <div id="app">
+            <div class="demo" :style ={'background-color':color}></div>
+            <div class="demo" :style="myStyle"></div>
+            <div class="demo" :style="[myStyle, {'height': width +'px'}]"></div>
+            <hr>
+            <input type="text" v-model="color">
+            <input type="number" step="5" v-model="width">
+        </div>
+
+        <a href="https://inqu.ru">Home</a>
+        <script type="text/javascript" src="main.js"></script>
+    </body>
+
+</html>

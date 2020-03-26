@@ -1,0 +1,3810 @@
+mfedoseev@killrot.ru's password:
+     ┌────────────────────────────────────────────────────────────────────┐
+     │                        • MobaXterm 10.5 •                          │
+     │            (SSH client, X-server and networking tools)             │
+     │                                                                    │
+     │ ➤ SSH session to mfedoseev@killrot.ru                              │
+     │   • SSH compression : ✔                                            │
+     │   • SSH-browser     : ✔                                            │
+     │   • X11-forwarding  : ✘  (disabled or not supported by server)     │
+     │   • DISPLAY         : 192.168.1.221:0.0                            │
+     │                                                                    │
+     │ ➤ For more info, ctrl+click on help or visit our website           │
+     └────────────────────────────────────────────────────────────────────┘
+
+Last login: Sat Apr 14 13:20:08 2018 from 94.140.192.2
+[mfedoseev@munin ~]$ ls
+backups  domains  imap  python  stuff
+[mfedoseev@munin ~]$ cd domains/
+[mfedoseev@munin domains]$ ls
+dfbweifgweifewjkfbwekjf.pzdk.ru  jvjyfjvjhvjhv.01sh.ru  pautinka                yii.uxp.ru
+erwefwefw.website                killrot.ru             testmyass.ru
+inqu.ru_                         my.pzdk.ru             xn--h1aagodnb.xn--p1ai
+[mfedoseev@munin domains]$ rm -r dfbweifgweifewjkfbwekjf.pzdk.ru/
+[mfedoseev@munin domains]$ rm -r jvjyfjvjhvjhv.01sh.ru/
+[mfedoseev@munin domains]$ rm -r erwefwefw.website/
+[mfedoseev@munin domains]$ rm -r x
+rm: невозможно удалить «x»: Нет такого файла или каталога
+[mfedoseev@munin domains]$ rm -r xn--h1aagodnb.xn--p1ai/
+[mfedoseev@munin domains]$ ls
+inqu.ru_  killrot.ru  my.pzdk.ru  pautinka  testmyass.ru  yii.uxp.ru
+[mfedoseev@munin domains]$ cd my.pzdk.ru/
+[mfedoseev@munin my.pzdk.ru]$ ls
+public_html  public_html.pre
+[mfedoseev@munin my.pzdk.ru]$ rm -rf public_html*
+[mfedoseev@munin my.pzdk.ru]$ ld
+ld: no input files
+[mfedoseev@munin my.pzdk.ru]$ ls
+[mfedoseev@munin my.pzdk.ru]$ cd
+[mfedoseev@munin ~]$
+──────────────────────────────────────────────────────────────────────────────────────────────────
+
+Session stopped
+    - Press <return> to exit tab
+    - Press R to restart session
+    - Press S to save terminal output to file
+
+Network error: Software caused connection abort
+mfedoseev@killrot.ru's password:
+Access denied
+mfedoseev@killrot.ru's password:
+     ┌────────────────────────────────────────────────────────────────────┐
+     │                        • MobaXterm 10.5 •                          │
+     │            (SSH client, X-server and networking tools)             │
+     │                                                                    │
+     │ ➤ SSH session to mfedoseev@killrot.ru                              │
+     │   • SSH compression : ✔                                            │
+     │   • SSH-browser     : ✔                                            │
+     │   • X11-forwarding  : ✘  (disabled or not supported by server)     │
+     │   • DISPLAY         : 192.168.1.221:0.0                            │
+     │                                                                    │
+     │ ➤ For more info, ctrl+click on help or visit our website           │
+     └────────────────────────────────────────────────────────────────────┘
+
+Last failed login: Sun Apr 15 13:06:13 MSK 2018 from 94.140.192.2 on ssh:notty
+There was 1 failed login attempt since the last successful login.
+Last login: Sun Apr 15 00:44:23 2018 from 94.140.192.2
+[mfedoseev@munin ~]$ Правда, покопавшись пару лет в грязи и слякоти, поспав в землянках и бочках, Еремей к строительству коммунизма немного охладел, начал пить, играть на гармошке и плакать по ночам.
+-bash: $'\320\237\321\200\320\260\320\262\320\264\320\260,': команда не найдена
+[mfedoseev@munin ~]$ whois Правда, покопавшись пару лет в грязи и слякоти, поспав в землянках и бочках, Еремей к строительству коммунизма немного охладел, начал пить, играть на гармошке и плакать по ночам.
+[Querying whois.internic.net]
+[whois.internic.net]
+No match for partial domain "Правда, покопавшись пару лет в грязи и слякоти, поспав в землянках и бочках, Еремей к строительству коммунизма немного охладел, начал пить, играть на гармошке и плакать по XN--80AYBE9B".
+>>> Last update of whois database: 2018-04-15T10:07:16Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+[mfedoseev@munin ~]$ whois 41.45.233.139
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '41.44.0.0 - 41.47.255.255'
+
+% No abuse contact registered for 41.44.0.0 - 41.47.255.255
+
+inetnum:        41.44.0.0 - 41.47.255.255
+netname:        All-19
+descr:          TE Data
+country:        EG
+admin-c:        TDCR1-AFRINIC
+tech-c:         TDCR2-AFRINIC
+status:         ASSIGNED PA
+remarks:        ====================================================
+remarks:        For Internet Abuse & Spam reports : admins@tedata.net
+remarks:        ====================================================
+mnt-by:         GEGA-MNT
+source:         AFRINIC # Filtered
+parent:         41.32.0.0 - 41.47.255.255
+
+role:           TE Data Contact Role
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR1-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+role:           TE Data Contact Role-2
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR2-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 217.66.157.182
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '217.66.152.0 - 217.66.159.255'
+
+% Abuse contact for '217.66.152.0 - 217.66.159.255' is 'abuse@mtu.ru'
+
+inetnum:        217.66.152.0 - 217.66.159.255
+netname:        SPBMTS
+descr:          Mobile TeleSystems, OJSC, MR North-West
+remarks:        INFRA-AW
+country:        RU
+admin-c:        AVL290-RIPE
+tech-c:         AVL290-RIPE
+status:         ASSIGNED PA
+mnt-by:         MR-NW-MTS-MNT
+created:        2010-04-26T10:32:30Z
+last-modified:  2017-06-08T11:53:29Z
+source:         RIPE # Filtered
+
+person:         Alexey V. Leontyev
+address:        Malaya Monetnaya Street 2-A, 197101 Saint-Petersburg, Russia
+phone:          +7 812 7039113
+fax-no:         +7 812 703 3191
+nic-hdl:        AVL290-RIPE
+mnt-by:         MTSNET-MNT
+created:        2016-05-19T13:36:22Z
+last-modified:  2017-10-30T23:14:53Z
+source:         RIPE # Filtered
+
+% Information related to '217.66.156.0/23AS8359'
+
+route:          217.66.156.0/23
+descr:          Mobile TeleSystems PJSC, North-West division
+descr:          Malaya Monetnaya Street 2-A
+descr:          197101 Saint-Petersburg, Russia
+origin:         AS8359
+mnt-by:         MR-NW-MTS-MNT
+mnt-by:         MTU-NOC
+created:        2016-06-04T18:10:02Z
+last-modified:  2016-06-04T18:10:02Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 37.112.90.228
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.112.88.0 - 37.112.95.255'
+
+% Abuse contact for '37.112.88.0 - 37.112.95.255' is 'abuse@domru.ru'
+
+inetnum:        37.112.88.0 - 37.112.95.255
+netname:        ERTH-TVER-PPPOE-16-NET
+descr:          CJSC "ER-Telecom Holding" Tver' branch
+descr:          Tver', Russia
+descr:          PPPoE individual customers
+country:        RU
+admin-c:        ERTH69-RIPE
+org:            ORG-CHTB4-RIPE
+tech-c:         ERTH69-RIPE
+status:         ASSIGNED PA
+mnt-by:         RAID-MNT
+remarks:        INFRA-AW
+created:        2014-10-31T00:31:15Z
+last-modified:  2014-10-31T00:31:15Z
+source:         RIPE
+
+organisation:   ORG-CHTB4-RIPE
+org-name:       JSC "ER-Telecom Holding" Tver' Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Tver' ISP
+address:        shosse Kosmonavtov, 111
+address:        614099 Perm'
+address:        Russian Federation
+phone:          +7 342 2462 367
+fax-no:         +7 342 2195 104
+admin-c:        ERTH69-RIPE
+tech-c:         ERTH69-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2011-09-27T10:34:04Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+role:           Network Operation Center CJSC ER-Telecom Holding Tver' branch
+address:        CJSC "ER-Telecom Holding" Tver' branch
+address:        shosse Kosmonavtov, 111
+address:        614099 Perm'
+address:        Russian Federation
+phone:          +7 342 2 195 100
+fax-no:         +7 342 2 195 100
+abuse-mailbox:  noc@tver.ertelecom.ru
+admin-c:        RAID1-RIPE
+tech-c:         RAID1-RIPE
+nic-hdl:        ERTH69-RIPE
+created:        2011-09-27T10:30:42Z
+last-modified:  2015-05-19T10:14:07Z
+source:         RIPE # Filtered
+mnt-by:         RAID-MNT
+
+% Information related to '37.112.88.0/22AS49048'
+
+route:          37.112.88.0/22
+origin:         AS49048
+org:            ORG-CHTB4-RIPE
+descr:          CJSC "ER-Telecom Holding" Tver' branch
+descr:          Tver', Russia
+mnt-by:         RAID-MNT
+created:        2014-10-31T00:31:16Z
+last-modified:  2014-10-31T00:31:16Z
+source:         RIPE
+
+organisation:   ORG-CHTB4-RIPE
+org-name:       JSC "ER-Telecom Holding" Tver' Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Tver' ISP
+address:        shosse Kosmonavtov, 111
+address:        614099 Perm'
+address:        Russian Federation
+phone:          +7 342 2462 367
+fax-no:         +7 342 2195 104
+admin-c:        ERTH69-RIPE
+tech-c:         ERTH69-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2011-09-27T10:34:04Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 95.27.72.196
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.24.0.0 - 95.30.255.255'
+
+% Abuse contact for '95.24.0.0 - 95.30.255.255' is 'abuse@beeline.ru'
+
+inetnum:        95.24.0.0 - 95.30.255.255
+netname:        BEELINE-BROADBAND
+descr:          Dynamic IP Pool for broadband customers
+country:        RU
+admin-c:        CORB1-RIPE
+tech-c:         CORB1-RIPE
+status:         ASSIGNED PA
+mnt-by:         RU-CORBINA-MNT
+created:        2010-05-12T10:14:50Z
+last-modified:  2011-10-24T07:14:07Z
+source:         RIPE
+
+role:           CORBINA TELECOM Network Operations
+address:        CORBINA TELECOM/Internet Network Operations
+address:        Kozhevnicheskij proezd, 1
+address:        Moscow, Russia
+address:        115114
+phone:          +7 495 755 5648
+fax-no:         +7 495 787 1990
+remarks:        -----------------------------------------------------------
+remarks:        Feel free to contact Corbina Telecom NOC to
+remarks:        resolve networking problems related to Corbina
+remarks:        -----------------------------------------------------------
+remarks:        User support, general questions: support@corbina.net
+remarks:        Routing, peering, security: ipnoc@corbina.net
+remarks:        Report spam and abuse: abuse@beeline.ru
+remarks:        Mail and news: postmaster@corbina.net
+remarks:        DNS: hostmaster@corbina.net
+remarks:        -----------------------------------------------------------
+admin-c:        AK644-RIPE
+tech-c:         MCS91-RIPE
+nic-hdl:        CORB1-RIPE
+mnt-by:         RU-CORBINA-MNT
+abuse-mailbox:  abuse@beeline.ru
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-02-16T09:47:15Z
+source:         RIPE # Filtered
+
+% Information related to '95.27.72.0/24AS8402'
+
+route:          95.27.72.0/24
+descr:          RU-CORBINA-BROADBAND-POOL1
+origin:         AS8402
+mnt-by:         RU-CORBINA-MNT
+created:        2009-10-07T15:48:54Z
+last-modified:  2011-04-28T08:47:50Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 109.235.27.45
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.235.24.0 - 109.235.30.255'
+
+% Abuse contact for '109.235.24.0 - 109.235.30.255' is 'm.khokhlov@sskon.ru'
+
+inetnum:        109.235.24.0 - 109.235.30.255
+netname:        SVSRV-NET
+descr:          SvyazService Ltd. ISP
+country:        RU
+admin-c:        VNB21-RIPE
+tech-c:         AS23271-RIPE
+status:         ASSIGNED PA
+mnt-by:         SVSRV-MNT
+created:        2014-02-04T14:33:59Z
+last-modified:  2014-02-04T14:33:59Z
+source:         RIPE # Filtered
+
+person:         Andrey Savin
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 4249897
+fax-no:         +7 482 4249800
+nic-hdl:        AS23271-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:35Z
+last-modified:  2012-04-25T11:30:35Z
+source:         RIPE # Filtered
+
+person:         Vadim N Burduxky
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 2521513
+fax-no:         +7 482 2521513
+nic-hdl:        VNB21-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:34Z
+last-modified:  2012-04-25T11:30:34Z
+source:         RIPE # Filtered
+
+% Information related to '109.235.24.0/21AS43761'
+
+route:          109.235.24.0/21
+descr:          SvyazService Ltd.
+descr:          Russia, Tver Region, Konakovo
+origin:         AS43761
+mnt-by:         SVSRV-MNT
+created:        2010-01-22T09:19:00Z
+last-modified:  2010-01-22T09:19:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 109.235.27.45
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.235.24.0 - 109.235.30.255'
+
+% Abuse contact for '109.235.24.0 - 109.235.30.255' is 'm.khokhlov@sskon.ru'
+
+inetnum:        109.235.24.0 - 109.235.30.255
+netname:        SVSRV-NET
+descr:          SvyazService Ltd. ISP
+country:        RU
+admin-c:        VNB21-RIPE
+tech-c:         AS23271-RIPE
+status:         ASSIGNED PA
+mnt-by:         SVSRV-MNT
+created:        2014-02-04T14:33:59Z
+last-modified:  2014-02-04T14:33:59Z
+source:         RIPE # Filtered
+
+person:         Andrey Savin
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 4249897
+fax-no:         +7 482 4249800
+nic-hdl:        AS23271-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:35Z
+last-modified:  2012-04-25T11:30:35Z
+source:         RIPE # Filtered
+
+person:         Vadim N Burduxky
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 2521513
+fax-no:         +7 482 2521513
+nic-hdl:        VNB21-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:34Z
+last-modified:  2012-04-25T11:30:34Z
+source:         RIPE # Filtered
+
+% Information related to '109.235.24.0/21AS43761'
+
+route:          109.235.24.0/21
+descr:          SvyazService Ltd.
+descr:          Russia, Tver Region, Konakovo
+origin:         AS43761
+mnt-by:         SVSRV-MNT
+created:        2010-01-22T09:19:00Z
+last-modified:  2010-01-22T09:19:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 109.235.27.45
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.235.24.0 - 109.235.30.255'
+
+% Abuse contact for '109.235.24.0 - 109.235.30.255' is 'm.khokhlov@sskon.ru'
+
+inetnum:        109.235.24.0 - 109.235.30.255
+netname:        SVSRV-NET
+descr:          SvyazService Ltd. ISP
+country:        RU
+admin-c:        VNB21-RIPE
+tech-c:         AS23271-RIPE
+status:         ASSIGNED PA
+mnt-by:         SVSRV-MNT
+created:        2014-02-04T14:33:59Z
+last-modified:  2014-02-04T14:33:59Z
+source:         RIPE # Filtered
+
+person:         Andrey Savin
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 4249897
+fax-no:         +7 482 4249800
+nic-hdl:        AS23271-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:35Z
+last-modified:  2012-04-25T11:30:35Z
+source:         RIPE # Filtered
+
+person:         Vadim N Burduxky
+address:        SvyazService Ltd.
+address:        Torgovy proezd,3
+address:        Konakovo, Tver Region, Russia
+phone:          +7 482 2521513
+fax-no:         +7 482 2521513
+nic-hdl:        VNB21-RIPE
+mnt-by:         SVSRV-MNT
+created:        2012-04-25T11:30:34Z
+last-modified:  2012-04-25T11:30:34Z
+source:         RIPE # Filtered
+
+% Information related to '109.235.24.0/21AS43761'
+
+route:          109.235.24.0/21
+descr:          SvyazService Ltd.
+descr:          Russia, Tver Region, Konakovo
+origin:         AS43761
+mnt-by:         SVSRV-MNT
+created:        2010-01-22T09:19:00Z
+last-modified:  2010-01-22T09:19:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 213.208.176.214
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.208.172.0 - 213.208.191.255'
+
+% Abuse contact for '213.208.172.0 - 213.208.191.255' is 'abuse@naukanet.ru'
+
+inetnum:        213.208.172.0 - 213.208.191.255
+netname:        RU-NAUKANET-20030404
+country:        RU
+org:            ORG-NA41-RIPE
+admin-c:        AE10290-RIPE
+tech-c:         AE10290-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+mnt-lower:      NAUKANET-MNT
+mnt-domains:    NAUKANET-MNT
+mnt-routes:     NAUKANET-MNT
+created:        2015-02-12T09:25:34Z
+last-modified:  2016-08-02T15:55:46Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NA41-RIPE
+org-name:       LLC "Nauka-Svyaz"
+org-type:       LIR
+address:        2-nd Khutorskaya street, house 38A, stroenie 15
+address:        127287
+address:        Moscow
+address:        RUSSIAN FEDERATION
+phone:          +74955029092
+fax-no:         +74959373412
+admin-c:        NTnN1-RIPE
+admin-c:        PA7041-RIPE
+abuse-c:        NAT48-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NAUKANET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+created:        2004-04-17T11:55:46Z
+last-modified:  2018-02-26T14:06:39Z
+source:         RIPE # Filtered
+
+person:         Egorov Alexander
+address:        GARS Telecom
+address:        Ostrovnoj proezd 2, Moscow, Russia
+address:        RUSSIAN FEDERATION Moscow
+phone:          +74957480099
+nic-hdl:        AE10290-RIPE
+mnt-by:         GARS-MNT
+created:        2015-03-23T14:31:14Z
+last-modified:  2017-01-12T12:03:46Z
+source:         RIPE
+
+% Information related to '213.208.176.0/20AS8641'
+
+route:          213.208.176.0/20
+descr:          Nauka-Svyaz
+origin:         AS8641
+mnt-by:         NAUKANET-MNT
+created:        2015-02-12T14:25:29Z
+last-modified:  2015-02-12T14:25:29Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 213.208.176.214
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.208.172.0 - 213.208.191.255'
+
+% Abuse contact for '213.208.172.0 - 213.208.191.255' is 'abuse@naukanet.ru'
+
+inetnum:        213.208.172.0 - 213.208.191.255
+netname:        RU-NAUKANET-20030404
+country:        RU
+org:            ORG-NA41-RIPE
+admin-c:        AE10290-RIPE
+tech-c:         AE10290-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+mnt-lower:      NAUKANET-MNT
+mnt-domains:    NAUKANET-MNT
+mnt-routes:     NAUKANET-MNT
+created:        2015-02-12T09:25:34Z
+last-modified:  2016-08-02T15:55:46Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NA41-RIPE
+org-name:       LLC "Nauka-Svyaz"
+org-type:       LIR
+address:        2-nd Khutorskaya street, house 38A, stroenie 15
+address:        127287
+address:        Moscow
+address:        RUSSIAN FEDERATION
+phone:          +74955029092
+fax-no:         +74959373412
+admin-c:        NTnN1-RIPE
+admin-c:        PA7041-RIPE
+abuse-c:        NAT48-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NAUKANET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+created:        2004-04-17T11:55:46Z
+last-modified:  2018-02-26T14:06:39Z
+source:         RIPE # Filtered
+
+person:         Egorov Alexander
+address:        GARS Telecom
+address:        Ostrovnoj proezd 2, Moscow, Russia
+address:        RUSSIAN FEDERATION Moscow
+phone:          +74957480099
+nic-hdl:        AE10290-RIPE
+mnt-by:         GARS-MNT
+created:        2015-03-23T14:31:14Z
+last-modified:  2017-01-12T12:03:46Z
+source:         RIPE
+
+% Information related to '213.208.176.0/20AS8641'
+
+route:          213.208.176.0/20
+descr:          Nauka-Svyaz
+origin:         AS8641
+mnt-by:         NAUKANET-MNT
+created:        2015-02-12T14:25:29Z
+last-modified:  2015-02-12T14:25:29Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 213.208.176.214
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.208.172.0 - 213.208.191.255'
+
+% Abuse contact for '213.208.172.0 - 213.208.191.255' is 'abuse@naukanet.ru'
+
+inetnum:        213.208.172.0 - 213.208.191.255
+netname:        RU-NAUKANET-20030404
+country:        RU
+org:            ORG-NA41-RIPE
+admin-c:        AE10290-RIPE
+tech-c:         AE10290-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+mnt-lower:      NAUKANET-MNT
+mnt-domains:    NAUKANET-MNT
+mnt-routes:     NAUKANET-MNT
+created:        2015-02-12T09:25:34Z
+last-modified:  2016-08-02T15:55:46Z
+source:         RIPE # Filtered
+
+organisation:   ORG-NA41-RIPE
+org-name:       LLC "Nauka-Svyaz"
+org-type:       LIR
+address:        2-nd Khutorskaya street, house 38A, stroenie 15
+address:        127287
+address:        Moscow
+address:        RUSSIAN FEDERATION
+phone:          +74955029092
+fax-no:         +74959373412
+admin-c:        NTnN1-RIPE
+admin-c:        PA7041-RIPE
+abuse-c:        NAT48-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        NAUKANET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         NAUKANET-MNT
+created:        2004-04-17T11:55:46Z
+last-modified:  2018-02-26T14:06:39Z
+source:         RIPE # Filtered
+
+person:         Egorov Alexander
+address:        GARS Telecom
+address:        Ostrovnoj proezd 2, Moscow, Russia
+address:        RUSSIAN FEDERATION Moscow
+phone:          +74957480099
+nic-hdl:        AE10290-RIPE
+mnt-by:         GARS-MNT
+created:        2015-03-23T14:31:14Z
+last-modified:  2017-01-12T12:03:46Z
+source:         RIPE
+
+% Information related to '213.208.176.0/20AS8641'
+
+route:          213.208.176.0/20
+descr:          Nauka-Svyaz
+origin:         AS8641
+mnt-by:         NAUKANET-MNT
+created:        2015-02-12T14:25:29Z
+last-modified:  2015-02-12T14:25:29Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 77.40.94.62
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.40.80.0 - 77.40.95.255'
+
+% Abuse contact for '77.40.80.0 - 77.40.95.255' is 'abuse@rt.ru'
+
+inetnum:        77.40.80.0 - 77.40.95.255
+netname:        VOLGATELECOM-MARIEL-FTTH-260110
+descr:          FTTH dynamic pools
+country:        RU
+admin-c:        BEH-RIPE
+tech-c:         KMA-RIPE
+status:         ASSIGNED PA
+mnt-by:         NMTS-MNT
+created:        2010-01-26T12:25:25Z
+last-modified:  2010-01-26T12:25:25Z
+source:         RIPE
+
+person:         Vasiliy Golovin
+address:        VolgaTelecom Mari El branch
+address:        Sovetskaya 138
+address:        424000 Yoshkar-Ola
+phone:          +78362664526
+nic-hdl:        BEH-RIPE
+mnt-by:         BEH-MNT
+created:        2006-08-22T08:13:35Z
+last-modified:  2008-10-31T13:43:21Z
+source:         RIPE # Filtered
+
+person:         Konstantin A Maryshev
+address:        Sovetskaya 138
+address:        424000 Yoshkar-Ola
+mnt-by:         KMA-MNT
+phone:          +7-8362-664404
+phone:          +7-8362-231719
+nic-hdl:        KMA-RIPE
+created:        2006-10-20T11:19:22Z
+last-modified:  2015-01-21T09:20:40Z
+source:         RIPE
+
+% Information related to '77.40.88.0/21AS5591'
+
+route:          77.40.88.0/21
+descr:          Volgatelecom Mari El branch
+mnt-by:         MNT-VTC
+origin:         AS5591
+mnt-by:         AS5591-MNT
+created:        2009-02-18T12:27:21Z
+last-modified:  2009-02-18T12:27:21Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 188.187.12.27
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '188.187.8.0 - 188.187.15.255'
+
+% Abuse contact for '188.187.8.0 - 188.187.15.255' is 'abuse@domru.ru'
+
+inetnum:        188.187.8.0 - 188.187.15.255
+netname:        ERTH-SPB-PPPOE-3-NET
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+descr:          PPPOE individual customers
+country:        RU
+admin-c:        ERTH78-RIPE
+org:            ORG-CHSB2-RIPE
+tech-c:         ERTH78-RIPE
+status:         ASSIGNED PA
+mnt-by:         RAID-MNT
+created:        2011-03-15T07:27:31Z
+last-modified:  2011-03-15T07:27:31Z
+source:         RIPE # Filtered
+remarks:        INFRA-AW
+
+organisation:   ORG-CHSB2-RIPE
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Saint-Petersburg ISP
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+admin-c:        ERTH78-RIPE
+tech-c:         ERTH78-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2010-09-27T05:16:44Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+role:           Network Operation Center CJSC ER-Telecom Holding Saint-Petersburg branch
+address:        CJSC "ER-Telecom Holding" Saint-Petersburg
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+abuse-mailbox:  noc@ertelecom.ru
+admin-c:        DNDY1-RIPE
+tech-c:         DNDY1-RIPE
+nic-hdl:        ERTH78-RIPE
+created:        2010-08-26T04:50:06Z
+last-modified:  2011-01-25T09:57:34Z
+source:         RIPE # Filtered
+mnt-by:         RAID-MNT
+
+% Information related to '188.187.12.0/22AS51570'
+
+route:          188.187.12.0/22
+origin:         AS51570
+org:            ORG-CHSB2-RIPE
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+mnt-by:         RAID-MNT
+created:        2011-03-15T07:27:31Z
+last-modified:  2011-03-15T07:27:31Z
+source:         RIPE # Filtered
+
+organisation:   ORG-CHSB2-RIPE
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Saint-Petersburg ISP
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+admin-c:        ERTH78-RIPE
+tech-c:         ERTH78-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2010-09-27T05:16:44Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 188.187.12.27
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '188.187.8.0 - 188.187.15.255'
+
+% Abuse contact for '188.187.8.0 - 188.187.15.255' is 'abuse@domru.ru'
+
+inetnum:        188.187.8.0 - 188.187.15.255
+netname:        ERTH-SPB-PPPOE-3-NET
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+descr:          PPPOE individual customers
+country:        RU
+admin-c:        ERTH78-RIPE
+org:            ORG-CHSB2-RIPE
+tech-c:         ERTH78-RIPE
+status:         ASSIGNED PA
+mnt-by:         RAID-MNT
+created:        2011-03-15T07:27:31Z
+last-modified:  2011-03-15T07:27:31Z
+source:         RIPE # Filtered
+remarks:        INFRA-AW
+
+organisation:   ORG-CHSB2-RIPE
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Saint-Petersburg ISP
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+admin-c:        ERTH78-RIPE
+tech-c:         ERTH78-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2010-09-27T05:16:44Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+role:           Network Operation Center CJSC ER-Telecom Holding Saint-Petersburg branch
+address:        CJSC "ER-Telecom Holding" Saint-Petersburg
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+abuse-mailbox:  noc@ertelecom.ru
+admin-c:        DNDY1-RIPE
+tech-c:         DNDY1-RIPE
+nic-hdl:        ERTH78-RIPE
+created:        2010-08-26T04:50:06Z
+last-modified:  2011-01-25T09:57:34Z
+source:         RIPE # Filtered
+mnt-by:         RAID-MNT
+
+% Information related to '188.187.12.0/22AS51570'
+
+route:          188.187.12.0/22
+origin:         AS51570
+org:            ORG-CHSB2-RIPE
+descr:          CJSC "ER-Telecom Holding" Saint-Petersburg branch
+descr:          Saint-Petersburg, Russia
+mnt-by:         RAID-MNT
+created:        2011-03-15T07:27:31Z
+last-modified:  2011-03-15T07:27:31Z
+source:         RIPE # Filtered
+
+organisation:   ORG-CHSB2-RIPE
+org-name:       JSC "ER-Telecom Holding" Saint-Petersburg Branch
+org-type:       OTHER
+descr:          TM DOM.RU, Saint-Petersburg ISP
+address:        Kolomyazhsky, 29
+address:        Saint-Petersburg
+address:        Russian Federation
+phone:          +7-800-333-7000
+fax-no:         +7-800-333-7000
+admin-c:        ERTH78-RIPE
+tech-c:         ERTH78-RIPE
+mnt-ref:        RAID-MNT
+mnt-by:         RAID-MNT
+created:        2010-09-27T05:16:44Z
+last-modified:  2016-01-11T11:46:43Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 93.185.192.85
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.185.192.0 - 93.185.206.255'
+
+% Abuse contact for '93.185.192.0 - 93.185.206.255' is 'noc@aviel.ru'
+
+inetnum:        93.185.192.0 - 93.185.206.255
+netname:        AVIEL-NET
+org:            ORG-Cjc5-RIPE
+country:        RU
+admin-c:        ATG-RIPE
+tech-c:         MEN-RIPE
+status:         ASSIGNED PA
+mnt-by:         AVIEL-MNT
+mnt-lower:      AVIEL-MNT
+mnt-routes:     AVIEL-MNT
+created:        2011-05-05T14:32:40Z
+last-modified:  2017-12-25T13:47:00Z
+source:         RIPE # Filtered
+
+organisation:   ORG-Cjc5-RIPE
+org-name:       JSC "AVIEL"
+org-type:       LIR
+address:        Doninskoye shosse st. 12a
+address:        140103
+address:        Ramenskoye
+address:        RUSSIAN FEDERATION
+phone:          +74964645777
+fax-no:         +74964645777
+abuse-c:        AVL242-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AVIEL-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         AVIEL-MNT
+created:        2008-05-21T11:02:16Z
+last-modified:  2016-06-16T07:23:32Z
+source:         RIPE # Filtered
+
+person:         Artem T Grebenik
+address:        Doninskoye shosse str. 12A, 140103, Ramenskoye, Russian Federation
+phone:          +7 496 4645777
+nic-hdl:        ATG-RIPE
+mnt-by:         AVIEL-MNT
+created:        2008-05-26T07:05:39Z
+last-modified:  2013-12-12T09:26:55Z
+source:         RIPE # Filtered
+
+person:         Eugene N Melashenko
+address:        Doninskoye shosse str. 12A, 140103, Ramenskoye, Russian Federation
+phone:          +7 496 4645777
+nic-hdl:        MEN-RIPE
+mnt-by:         AVIEL-MNT
+created:        2003-05-23T09:25:09Z
+last-modified:  2013-12-12T09:24:37Z
+source:         RIPE # Filtered
+
+% Information related to '93.185.192.0/21AS35271'
+
+route:          93.185.192.0/21
+descr:          CJSC "AVIEL"
+origin:         AS35271
+mnt-by:         AVIEL-MNT
+created:        2011-02-07T15:42:55Z
+last-modified:  2011-02-07T15:42:55Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 213.87.139.26
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.87.128.0 - 213.87.159.255'
+
+% Abuse contact for '213.87.128.0 - 213.87.159.255' is 'abuse@mtu.ru'
+
+inetnum:        213.87.128.0 - 213.87.159.255
+netname:        MTSGPRS-3
+descr:          Mobile subscribers pool
+remarks:        INFRA-AW
+country:        RU
+admin-c:        MTU1-RIPE
+tech-c:         MTU1-RIPE
+admin-c:        MTSA
+tech-c:         MTSN
+status:         ASSIGNED PA
+mnt-by:         MTSNET-MNT
+mnt-by:         MTU-NOC
+mnt-routes:     MTSNET-MNT
+mnt-routes:     MTU-NOC
+created:        2015-08-25T13:07:29Z
+last-modified:  2015-08-25T13:07:29Z
+source:         RIPE
+
+role:           MTSNET Administration
+address:        MTS PJSC
+address:        4, Marksistskaya str., 109147 Moscow, Russia
+phone:          +7 495 7660131
+mnt-by:         MTSNET-MNT
+remarks:        abuse-mailbox: info@mts.ru
+admin-c:        YUF-RIPE
+tech-c:         YUF-RIPE
+nic-hdl:        MTSA
+created:        2004-04-03T10:05:17Z
+last-modified:  2016-01-28T08:34:41Z
+source:         RIPE # Filtered
+
+role:           MTSNET NOC
+address:        MTS PJSC
+address:        4, Marksistskaya str.
+address:        109147 Moscow, Russia
+remarks:        abuse-mailbox: info@mts.ru
+admin-c:        YUF-RIPE
+tech-c:         YUF-RIPE
+nic-hdl:        MTSN
+created:        2004-04-03T09:50:46Z
+last-modified:  2016-01-28T08:35:53Z
+source:         RIPE # Filtered
+mnt-by:         MTSNET-MNT
+
+role:           MTU-Intel NOC
+address:        PJSC MTS / former CJSC Comstar-Direct
+address:        Petrovsky blvd 12, bldg 3
+address:        P.O. BOX 4711 127051
+address:        Moscow, Russia
+remarks:        **************************************
+remarks:        Contact addresses:
+remarks:        routing & peering noc@mtu.ru
+remarks:        spam & security abuse@mtu.ru
+remarks:        mail postmaster@mtu.ru
+remarks:        ddos reports ddos-reports@mtu.ru
+remarks:        **************************************
+phone:          +7 495 721-34-99
+fax-no:         +7 495 956-07-07
+admin-c:        EDA-RIPE
+admin-c:        RPS-RIPE
+tech-c:         EDA-RIPE
+tech-c:         SAAP-RIPE
+nic-hdl:        MTU1-RIPE
+mnt-by:         MTU-NOC
+created:        2002-10-18T13:29:19Z
+last-modified:  2015-12-28T13:23:12Z
+source:         RIPE # Filtered
+
+% Information related to '213.87.128.0/20AS8359'
+
+route:          213.87.128.0/20
+descr:          Mobile TeleSystems, PJSC, NAT for GPRS/3G
+origin:         AS8359
+mnt-by:         MTSNET-MNT
+mnt-by:         MTU-NOC
+created:        2015-08-05T16:10:22Z
+last-modified:  2015-08-05T16:10:22Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 46.175.254.5
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.175.240.0 - 46.175.255.255'
+
+% Abuse contact for '46.175.240.0 - 46.175.255.255' is 'abuse@cn.zp.ua'
+
+inetnum:        46.175.240.0 - 46.175.255.255
+netname:        NSTAR
+country:        UA
+org:            ORG-LA1197-RIPE
+admin-c:        BM3862-RIPE
+tech-c:         BM3862-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         STARINET-MNT
+mnt-routes:     STARINET-MNT
+mnt-domains:    STARINET-MNT
+created:        2011-02-14T16:51:58Z
+last-modified:  2017-12-14T10:17:35Z
+source:         RIPE
+sponsoring-org: ORG-FSEO2-RIPE
+
+organisation:   ORG-LA1197-RIPE
+org-name:       LLC "GREEN-NET"
+org-type:       other
+address:        69063, Ukraine, Zaporizhzhya, Komsomolska str. 3
+admin-c:        BM3862-RIPE
+phone:          +38(061)701-58-41
+abuse-c:        AR24349-RIPE
+mnt-ref:        STARINET-MNT
+mnt-by:         STARINET-MNT
+created:        2017-12-05T10:19:27Z
+last-modified:  2017-12-12T09:58:18Z
+source:         RIPE # Filtered
+
+person:         Belokoputov Maksim
+address:        Ukraine, Zaporozh'e, str. Lahtinskaya 3/1
+phone:          +38(061)270-53-76
+nic-hdl:        BM3862-RIPE
+mnt-by:         STARINET-MNT
+created:        2008-05-26T15:20:00Z
+last-modified:  2017-11-27T19:23:19Z
+source:         RIPE
+
+% Information related to '46.175.254.0/24AS56386'
+
+route:          46.175.254.0/24
+descr:          "Itelcom" Ltd
+origin:         AS56386
+mnt-by:         STARINET-MNT
+created:        2013-03-14T19:17:04Z
+last-modified:  2016-01-16T09:17:18Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 213.87.138.161
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.87.128.0 - 213.87.159.255'
+
+% Abuse contact for '213.87.128.0 - 213.87.159.255' is 'abuse@mtu.ru'
+
+inetnum:        213.87.128.0 - 213.87.159.255
+netname:        MTSGPRS-3
+descr:          Mobile subscribers pool
+remarks:        INFRA-AW
+country:        RU
+admin-c:        MTU1-RIPE
+tech-c:         MTU1-RIPE
+admin-c:        MTSA
+tech-c:         MTSN
+status:         ASSIGNED PA
+mnt-by:         MTSNET-MNT
+mnt-by:         MTU-NOC
+mnt-routes:     MTSNET-MNT
+mnt-routes:     MTU-NOC
+created:        2015-08-25T13:07:29Z
+last-modified:  2015-08-25T13:07:29Z
+source:         RIPE
+
+role:           MTSNET Administration
+address:        MTS PJSC
+address:        4, Marksistskaya str., 109147 Moscow, Russia
+phone:          +7 495 7660131
+mnt-by:         MTSNET-MNT
+remarks:        abuse-mailbox: info@mts.ru
+admin-c:        YUF-RIPE
+tech-c:         YUF-RIPE
+nic-hdl:        MTSA
+created:        2004-04-03T10:05:17Z
+last-modified:  2016-01-28T08:34:41Z
+source:         RIPE # Filtered
+
+role:           MTSNET NOC
+address:        MTS PJSC
+address:        4, Marksistskaya str.
+address:        109147 Moscow, Russia
+remarks:        abuse-mailbox: info@mts.ru
+admin-c:        YUF-RIPE
+tech-c:         YUF-RIPE
+nic-hdl:        MTSN
+created:        2004-04-03T09:50:46Z
+last-modified:  2016-01-28T08:35:53Z
+source:         RIPE # Filtered
+mnt-by:         MTSNET-MNT
+
+role:           MTU-Intel NOC
+address:        PJSC MTS / former CJSC Comstar-Direct
+address:        Petrovsky blvd 12, bldg 3
+address:        P.O. BOX 4711 127051
+address:        Moscow, Russia
+remarks:        **************************************
+remarks:        Contact addresses:
+remarks:        routing & peering noc@mtu.ru
+remarks:        spam & security abuse@mtu.ru
+remarks:        mail postmaster@mtu.ru
+remarks:        ddos reports ddos-reports@mtu.ru
+remarks:        **************************************
+phone:          +7 495 721-34-99
+fax-no:         +7 495 956-07-07
+admin-c:        EDA-RIPE
+admin-c:        RPS-RIPE
+tech-c:         EDA-RIPE
+tech-c:         SAAP-RIPE
+nic-hdl:        MTU1-RIPE
+mnt-by:         MTU-NOC
+created:        2002-10-18T13:29:19Z
+last-modified:  2015-12-28T13:23:12Z
+source:         RIPE # Filtered
+
+% Information related to '213.87.128.0/20AS8359'
+
+route:          213.87.128.0/20
+descr:          Mobile TeleSystems, PJSC, NAT for GPRS/3G
+origin:         AS8359
+mnt-by:         MTSNET-MNT
+mnt-by:         MTU-NOC
+created:        2015-08-05T16:10:22Z
+last-modified:  2015-08-05T16:10:22Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 78.109.76.81
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '78.109.64.0 - 78.109.79.255'
+
+% Abuse contact for '78.109.64.0 - 78.109.79.255' is 'abuse@gnc.am'
+
+inetnum:        78.109.64.0 - 78.109.79.255
+netname:        AM-GNC-20070704
+country:        AM
+org:            ORG-GC21-RIPE
+admin-c:        AS1483-RIPE
+tech-c:         GAR131-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-GNC
+mnt-routes:     MNT-GNC
+created:        2014-04-10T11:51:08Z
+last-modified:  2016-04-14T09:46:17Z
+source:         RIPE # Filtered
+mnt-domains:    MNT-GNC
+
+organisation:   ORG-GC21-RIPE
+org-name:       GNC-Alfa CJSC
+org-type:       LIR
+address:        1 Khaghaghutyan str.
+address:        2201
+address:        Abovyan
+address:        ARMENIA
+phone:          +37460469901
+fax-no:         +37460469901
+mnt-ref:        MNT-GNC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        GAR131-RIPE
+created:        2010-10-22T12:21:16Z
+last-modified:  2015-05-03T14:15:38Z
+source:         RIPE # Filtered
+
+role:           GNC Admin Role
+address:        Armenia, Abovyan, Khakhaghutyan str. 1
+admin-c:        MT13409-RIPE
+tech-c:         AA8916-RIPE
+tech-c:         MK10494-RIPE
+tech-c:         MN10636-RIPE
+abuse-mailbox:  abuse@gnc.am
+mnt-by:         MNT-GNC
+nic-hdl:        GAR131-RIPE
+created:        2010-06-28T06:38:53Z
+last-modified:  2017-08-09T09:17:05Z
+source:         RIPE # Filtered
+
+person:         Armen Simonyan
+address:        Armenia, Abovyan, Khakhaghutyan str. 1 apt.
+mnt-by:         MNT-GNC
+phone:          +37410 594143
+nic-hdl:        AS1483-RIPE
+created:        2009-09-02T10:20:19Z
+last-modified:  2011-02-21T12:48:21Z
+source:         RIPE
+
+% Information related to '78.109.64.0/20AS49800'
+
+route:          78.109.64.0/20
+descr:          GNC Route
+origin:         AS49800
+mnt-by:         MNT-GNC
+created:        2014-07-02T07:06:48Z
+last-modified:  2014-07-02T07:06:48Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 78.109.76.81
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '78.109.64.0 - 78.109.79.255'
+
+% Abuse contact for '78.109.64.0 - 78.109.79.255' is 'abuse@gnc.am'
+
+inetnum:        78.109.64.0 - 78.109.79.255
+netname:        AM-GNC-20070704
+country:        AM
+org:            ORG-GC21-RIPE
+admin-c:        AS1483-RIPE
+tech-c:         GAR131-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-GNC
+mnt-routes:     MNT-GNC
+created:        2014-04-10T11:51:08Z
+last-modified:  2016-04-14T09:46:17Z
+source:         RIPE # Filtered
+mnt-domains:    MNT-GNC
+
+organisation:   ORG-GC21-RIPE
+org-name:       GNC-Alfa CJSC
+org-type:       LIR
+address:        1 Khaghaghutyan str.
+address:        2201
+address:        Abovyan
+address:        ARMENIA
+phone:          +37460469901
+fax-no:         +37460469901
+mnt-ref:        MNT-GNC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        GAR131-RIPE
+created:        2010-10-22T12:21:16Z
+last-modified:  2015-05-03T14:15:38Z
+source:         RIPE # Filtered
+
+role:           GNC Admin Role
+address:        Armenia, Abovyan, Khakhaghutyan str. 1
+admin-c:        MT13409-RIPE
+tech-c:         AA8916-RIPE
+tech-c:         MK10494-RIPE
+tech-c:         MN10636-RIPE
+abuse-mailbox:  abuse@gnc.am
+mnt-by:         MNT-GNC
+nic-hdl:        GAR131-RIPE
+created:        2010-06-28T06:38:53Z
+last-modified:  2017-08-09T09:17:05Z
+source:         RIPE # Filtered
+
+person:         Armen Simonyan
+address:        Armenia, Abovyan, Khakhaghutyan str. 1 apt.
+mnt-by:         MNT-GNC
+phone:          +37410 594143
+nic-hdl:        AS1483-RIPE
+created:        2009-09-02T10:20:19Z
+last-modified:  2011-02-21T12:48:21Z
+source:         RIPE
+
+% Information related to '78.109.64.0/20AS49800'
+
+route:          78.109.64.0/20
+descr:          GNC Route
+origin:         AS49800
+mnt-by:         MNT-GNC
+created:        2014-07-02T07:06:48Z
+last-modified:  2014-07-02T07:06:48Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 78.109.76.81
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '78.109.64.0 - 78.109.79.255'
+
+% Abuse contact for '78.109.64.0 - 78.109.79.255' is 'abuse@gnc.am'
+
+inetnum:        78.109.64.0 - 78.109.79.255
+netname:        AM-GNC-20070704
+country:        AM
+org:            ORG-GC21-RIPE
+admin-c:        AS1483-RIPE
+tech-c:         GAR131-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-GNC
+mnt-routes:     MNT-GNC
+created:        2014-04-10T11:51:08Z
+last-modified:  2016-04-14T09:46:17Z
+source:         RIPE # Filtered
+mnt-domains:    MNT-GNC
+
+organisation:   ORG-GC21-RIPE
+org-name:       GNC-Alfa CJSC
+org-type:       LIR
+address:        1 Khaghaghutyan str.
+address:        2201
+address:        Abovyan
+address:        ARMENIA
+phone:          +37460469901
+fax-no:         +37460469901
+mnt-ref:        MNT-GNC
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        GAR131-RIPE
+created:        2010-10-22T12:21:16Z
+last-modified:  2015-05-03T14:15:38Z
+source:         RIPE # Filtered
+
+role:           GNC Admin Role
+address:        Armenia, Abovyan, Khakhaghutyan str. 1
+admin-c:        MT13409-RIPE
+tech-c:         AA8916-RIPE
+tech-c:         MK10494-RIPE
+tech-c:         MN10636-RIPE
+abuse-mailbox:  abuse@gnc.am
+mnt-by:         MNT-GNC
+nic-hdl:        GAR131-RIPE
+created:        2010-06-28T06:38:53Z
+last-modified:  2017-08-09T09:17:05Z
+source:         RIPE # Filtered
+
+person:         Armen Simonyan
+address:        Armenia, Abovyan, Khakhaghutyan str. 1 apt.
+mnt-by:         MNT-GNC
+phone:          +37410 594143
+nic-hdl:        AS1483-RIPE
+created:        2009-09-02T10:20:19Z
+last-modified:  2011-02-21T12:48:21Z
+source:         RIPE
+
+% Information related to '78.109.64.0/20AS49800'
+
+route:          78.109.64.0/20
+descr:          GNC Route
+origin:         AS49800
+mnt-by:         MNT-GNC
+created:        2014-07-02T07:06:48Z
+last-modified:  2014-07-02T07:06:48Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 176.210.244.166
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '176.210.128.0 - 176.210.255.255'
+
+% Abuse contact for '176.210.128.0 - 176.210.255.255' is 'abuse@rt.ru'
+
+inetnum:        176.210.128.0 - 176.210.255.255
+netname:        WEBSTREAM
+descr:          JSC Rostelecom regional branch "Siberia"
+remarks:        ??merovo broadband service
+country:        RU
+remarks:
+remarks:        NCC #2011124892
+remarks:        INFRA AW
+remarks:
+admin-c:        NSOE11-RIPE
+tech-c:         NSOE22-RIPE
+mnt-by:         NSOELSV-NCC
+mnt-by:         ROSTELECOM-MNT
+mnt-lower:      NSOELSV-NCC
+mnt-routes:     NSOELSV-NCC
+mnt-domains:    NSOELSV-NCC
+status:         ASSIGNED PA
+remarks:
+remarks:        Direct reference for the general info on spam
+remarks:        In unsoluble cases for the general info on spam,
+remarks:        abusing & hacking complaints email
+remarks:        admin@kuzbass.net
+remarks:
+remarks:
+created:        2012-01-12T03:11:54Z
+last-modified:  2012-11-08T08:05:49Z
+source:         RIPE # Filtered
+
+role:           NSOELSVZ admin-c role
+address:        JSC "Sibirtelecom"
+address:        18, Ordjenikidze str.,
+address:        630099,  Novosibirsk, Russia
+phone:          +7 383 2 270669
+fax-no:         +7 383 2 270017
+admin-c:        YOL1-RIPE
+admin-c:        VIK15-RIPE
+tech-c:         YOL1-RIPE
+tech-c:         VIK15-RIPE
+nic-hdl:        NSOE11-RIPE
+mnt-by:         NSOELSV-NCC
+created:        2005-03-29T04:58:27Z
+last-modified:  2008-09-08T05:37:10Z
+source:         RIPE # Filtered
+
+role:           NSOELSVZ tech-c role
+address:        JSC "Sibirtelecom"
+address:        18, Ordjenikidze str.,
+address:        630099,  Novosibirsk, Russia
+phone:          +7 383 2 270669
+fax-no:         +7 383 2 270017
+admin-c:        YOL1-RIPE
+admin-c:        VIK15-RIPE
+tech-c:         YOL1-RIPE
+tech-c:         VIK15-RIPE
+nic-hdl:        NSOE22-RIPE
+mnt-by:         NSOELSV-NCC
+created:        2005-03-29T04:55:41Z
+last-modified:  2008-09-08T05:37:11Z
+source:         RIPE # Filtered
+
+% Information related to '176.210.128.0/17AS41440'
+
+route:          176.210.128.0/17
+descr:          JSC Rostelecom regional branch "Siberia"
+remarks:        Kemerovo
+origin:         AS41440
+mnt-by:         NSOELSV-NCC
+mnt-by:         ROSTELECOM-MNT
+created:        2012-01-12T03:11:54Z
+last-modified:  2012-11-08T08:00:55Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 5.136.95.203
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '5.136.0.0 - 5.136.127.255'
+
+% Abuse contact for '5.136.0.0 - 5.136.127.255' is 'abuse@rt.ru'
+
+inetnum:        5.136.0.0 - 5.136.127.255
+netname:        WEBSTREAM
+descr:          OJSC "Sibirtelecom"
+remarks:        Tomsk broadband service
+remarks:        5.136.0.0/22 & 5.136.4.0/22 is used for NAT
+remarks:        (KRSN-NAT1, EMLN-NAT1)
+country:        RU
+remarks:
+remarks:        NCC #2012063717
+remarks:        INFRA AW
+remarks:
+admin-c:        DIN-RIPE
+admin-c:        NSOE11-RIPE
+tech-c:         DIN-RIPE
+tech-c:         NSOE22-RIPE
+mnt-by:         NSOELSV-NCC
+mnt-by:         ROSTELECOM-MNT
+mnt-lower:      NSOELSV-NCC
+mnt-routes:     NSOELSV-NCC
+mnt-domains:    NSOELSV-NCC
+status:         ASSIGNED PA
+remarks:
+remarks:        Direct reference for the general info on spam
+remarks:        In unsoluble cases for the general info on spam,
+remarks:        abusing & hacking complaints email
+remarks:        hostmaster@tomsknet.ru
+remarks:
+created:        2012-07-16T10:09:41Z
+last-modified:  2013-05-13T06:37:47Z
+source:         RIPE
+
+role:           DIN Tomsktelecom NET Contact Role
+address:        Digital Information Network
+address:        Tomsktelecom
+address:        40, Chernykh str.,
+address:        634063, Tomsk, Russia
+phone:          +7 3822 662510
+phone:          +7 3822 662506
+phone:          +7 3822 559876
+fax-no:         +7 3822 662502
+remarks:        trouble:      URI2-RIPE
+remarks:        trouble:      VAD-RIPE
+admin-c:        SLY-RIPE
+admin-c:        SV67-RIPE
+admin-c:        VAD-RIPE
+tech-c:         SLY-RIPE
+tech-c:         URI2-RIPE
+tech-c:         VAD-RIPE
+nic-hdl:        DIN-RIPE
+mnt-by:         DIN-RIPE-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2005-05-04T13:19:23Z
+source:         RIPE # Filtered
+
+role:           NSOELSVZ admin-c role
+address:        JSC "Sibirtelecom"
+address:        18, Ordjenikidze str.,
+address:        630099,  Novosibirsk, Russia
+phone:          +7 383 2 270669
+fax-no:         +7 383 2 270017
+admin-c:        YOL1-RIPE
+admin-c:        VIK15-RIPE
+tech-c:         YOL1-RIPE
+tech-c:         VIK15-RIPE
+nic-hdl:        NSOE11-RIPE
+mnt-by:         NSOELSV-NCC
+created:        2005-03-29T04:58:27Z
+last-modified:  2008-09-08T05:37:10Z
+source:         RIPE # Filtered
+
+role:           NSOELSVZ tech-c role
+address:        JSC "Sibirtelecom"
+address:        18, Ordjenikidze str.,
+address:        630099,  Novosibirsk, Russia
+phone:          +7 383 2 270669
+fax-no:         +7 383 2 270017
+admin-c:        YOL1-RIPE
+admin-c:        VIK15-RIPE
+tech-c:         YOL1-RIPE
+tech-c:         VIK15-RIPE
+nic-hdl:        NSOE22-RIPE
+mnt-by:         NSOELSV-NCC
+created:        2005-03-29T04:55:41Z
+last-modified:  2008-09-08T05:37:11Z
+source:         RIPE # Filtered
+
+% Information related to '5.136.0.0/17AS41440'
+
+route:          5.136.0.0/17
+descr:          JSC Rostelecom regional branch "Siberia"
+remarks:        Tomsk
+origin:         AS41440
+mnt-by:         NSOELSV-NCC
+mnt-by:         ROSTELECOM-MNT
+created:        2012-07-16T10:09:41Z
+last-modified:  2012-07-16T10:09:41Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 223.204.250.128
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '223.204.0.0 - 223.204.255.255'
+
+% Abuse contact for '223.204.0.0 - 223.204.255.255' is 'ipadmin@3bbmail.com'
+
+inetnum:        223.204.0.0 - 223.204.255.255
+netname:        TRIPLETNET-AS-AP
+descr:          Triple T Internet PCL
+country:        TH
+admin-c:        TP207-AP
+tech-c:         TP207-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-TH-3BB
+last-modified:  2010-08-30T02:43:11Z
+source:         APNIC
+
+person:         TRIPLET PCL
+nic-hdl:        TP207-AP
+e-mail:         ipadmin@3bbmail.com
+address:        200 Moo4 Chaengwattana Road Pakkret Nonthaburi 11120
+phone:          +6621008541
+fax-no:         +6621002121
+country:        TH
+mnt-by:         MAINT-TH-TRIPLET
+last-modified:  2017-11-28T03:57:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK3)
+
+
+[mfedoseev@munin ~]$ whois 223.204.250.128
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '223.204.0.0 - 223.204.255.255'
+
+% Abuse contact for '223.204.0.0 - 223.204.255.255' is 'ipadmin@3bbmail.com'
+
+inetnum:        223.204.0.0 - 223.204.255.255
+netname:        TRIPLETNET-AS-AP
+descr:          Triple T Internet PCL
+country:        TH
+admin-c:        TP207-AP
+tech-c:         TP207-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-TH-3BB
+last-modified:  2010-08-30T02:43:11Z
+source:         APNIC
+
+person:         TRIPLET PCL
+nic-hdl:        TP207-AP
+e-mail:         ipadmin@3bbmail.com
+address:        200 Moo4 Chaengwattana Road Pakkret Nonthaburi 11120
+phone:          +6621008541
+fax-no:         +6621002121
+country:        TH
+mnt-by:         MAINT-TH-TRIPLET
+last-modified:  2017-11-28T03:57:44Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK3)
+
+
+[mfedoseev@munin ~]$ whois 31.180.200.137
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.180.192.0 - 31.180.255.255'
+
+% Abuse contact for '31.180.192.0 - 31.180.255.255' is 'abuse@rt.ru'
+
+inetnum:        31.180.192.0 - 31.180.255.255
+netname:        Macroregional_South
+descr:          OJSC Rostelecom Macroregional Branch South
+descr:          Stavropol, Russia
+country:        RU
+admin-c:        AI212-RIPE
+tech-c:         SG2478-RIPE
+status:         ASSIGNED PA
+mnt-by:         STC-MNT
+mnt-by:         ROSTELECOM-MNT
+created:        2011-11-03T09:40:14Z
+last-modified:  2015-07-27T09:55:58Z
+source:         RIPE # Filtered
+
+person:         Alexander Ivanov
+address:        290, Myra st., 355000, Stavropol, Russia
+phone:          +7 8652 249595
+fax-no:         +7 8652 243432
+nic-hdl:        AI212-RIPE
+mnt-by:         STATEL-RIPE-MNT
+created:        2009-06-04T05:40:19Z
+last-modified:  2016-05-11T14:03:08Z
+source:         RIPE # Filtered
+
+person:         Serge Guznov
+address:        290, Myra st.
+address:        355000, Stavropol, Russia
+phone:          +7 8652 262645
+nic-hdl:        SG2478-RIPE
+mnt-by:         STATEL-RIPE-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-05-11T14:17:27Z
+source:         RIPE # Filtered
+
+% Information related to '31.180.192.0/19AS12389'
+
+route:          31.180.192.0/19
+descr:          OJSC Rostelecom Macroregional Branch South
+origin:         AS12389
+mnt-by:         STC-MNT
+mnt-by:         ROSTELECOM-MNT
+created:        2015-07-27T13:37:28Z
+last-modified:  2015-07-27T13:37:28Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 178.45.85.40
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.45.32.0 - 178.45.127.255'
+
+% Abuse contact for '178.45.32.0 - 178.45.127.255' is 'abuse@rt.ru'
+
+inetnum:        178.45.32.0 - 178.45.127.255
+netname:        VOLGATELECOM-SAMARA-TLT-DYNPOOL-122009
+descr:          Dynamic pools for clients in the Samara branch
+country:        RU
+admin-c:        VT1-RU
+tech-c:         VT1-RU
+status:         ASSIGNED PA
+mnt-by:         MNT-VOLGATELECOM
+mnt-by:         SAMTEL-MNT
+mnt-lower:      SAMTEL-MNT
+mnt-domains:    SAMTEL-MNT
+mnt-routes:     SAMTEL-MNT
+created:        2011-10-19T10:58:16Z
+last-modified:  2011-10-19T10:58:16Z
+source:         RIPE # Filtered
+
+role:           Internet Center of JSC VolgaTelecom Samara branch
+address:        JSC "VolgaTelecom" Samara branch
+address:        17, Krasnoarmeyskaya str.
+address:        443099 Samara,
+address:        Russian Federation
+phone:          +7 846 3334725
+phone:          +7 846 3363610
+phone:          +7 846 3363467
+fax-no:         +7 846 2637235
+remarks:        trouble: techsupport: +7 846 2637676 is available 24 x 7
+remarks:        trouble: -------------------------------------------------------
+remarks:        trouble: Points of contact for Network Operations
+remarks:        trouble: -------------------------------------------------------
+remarks:        trouble: SPAM and Network security issues: abuse@samtel.ru
+remarks:        trouble: Routing issues: noc@samtel.ru
+remarks:        trouble: Mail issues:  postmaster@samtel.ru
+remarks:        trouble: -------------------------------------------------------
+remarks:        trouble: A T T E N T I O N!
+remarks:        trouble: Please use abuse@samtel.ru e-mail
+remarks:        trouble: address for complaints.
+remarks:        trouble: All messages to any other our address,
+remarks:        trouble: relative to SPAM
+remarks:        trouble: or security issues, will not be concerned.
+admin-c:        YVN4-RIPE
+admin-c:        ANS63-RIPE
+admin-c:        AAK17-RIPE
+tech-c:         YVN4-RIPE
+tech-c:         ANS63-RIPE
+tech-c:         AAK17-RIPE
+abuse-mailbox:  abuse@samtel.ru
+nic-hdl:        VT1-RU
+mnt-by:         SAMTEL-MNT
+created:        2007-07-05T09:15:44Z
+last-modified:  2010-05-31T10:09:00Z
+source:         RIPE # Filtered
+
+% Information related to '178.45.80.0/20AS15500'
+
+route:          178.45.80.0/20
+descr:          VOLGATELECOM-SAMARA-TLT-DYNPOOL-021411
+origin:         AS15500
+mnt-by:         SAMTEL-MNT
+created:        2011-02-14T09:07:01Z
+last-modified:  2011-02-14T09:07:01Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 41.142.54.245
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '41.142.0.0 - 41.142.127.255'
+
+% No abuse contact registered for 41.142.0.0 - 41.142.127.255
+
+inetnum:        41.142.0.0 - 41.142.127.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        SMT1-AFRINIC
+tech-c:         DMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         41.140.0.0 - 41.143.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 83.220.237.11
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '83.220.236.0 - 83.220.239.255'
+
+% Abuse contact for '83.220.236.0 - 83.220.239.255' is 'Internet.abuse@beeline.ru'
+
+inetnum:        83.220.236.0 - 83.220.239.255
+netname:        BEE-MSK-GPRS-FW
+descr:          Beeline-Moscow GPRS Firewall
+country:        RU
+admin-c:        VLAC1-RIPE
+tech-c:         VLTC1-RIPE
+status:         ASSIGNED PA
+remarks:        ------------ A T T E N T I O N !!! ------------
+remarks:        Please use
+remarks:
+remarks:        internet.abuse@beeline.ru
+remarks:        fraud@beeline.ru
+remarks:        info@beeline.ru
+remarks:
+remarks:        e-mail addresses for spam and abuse complaints.
+remarks:        Messages to other addresses will be ignored!
+remarks:        -----------------------------------------------
+mnt-by:         BEE-MNT
+created:        2008-11-13T10:57:01Z
+last-modified:  2009-02-10T15:04:00Z
+source:         RIPE # Filtered
+
+role:           VimpelCom LIR Administrative Contact
+address:        JSC "VimpelCom" 8 Marta st., house 10, bldg. 14 127083, Moscow, Russia
+org:            ORG-JA8-RIPE
+admin-c:        DM3740-RIPE
+tech-c:         DM3740-RIPE
+nic-hdl:        VLAC1-RIPE
+mnt-by:         BEE-MNT
+created:        2005-07-15T16:04:32Z
+last-modified:  2015-08-04T08:39:00Z
+source:         RIPE # Filtered
+
+role:           VimpelCom LIR Technical Contact
+address:        JSC "VimpelCom"
+                8 Marta st., house 10, bldg. 14
+                127083, Moscow, Russia
+org:            ORG-JA8-RIPE
+admin-c:        DM3740-RIPE
+tech-c:         DM3740-RIPE
+nic-hdl:        VLTC1-RIPE
+mnt-by:         BEE-MNT
+created:        2005-07-15T16:09:14Z
+last-modified:  2005-07-15T16:09:14Z
+source:         RIPE # Filtered
+
+% Information related to '83.220.236.0/23AS16345'
+
+route:          83.220.236.0/23
+descr:          OJSC "VimpelCom"
+origin:         AS16345
+mnt-by:         BEE-MNT
+created:        2013-09-16T16:12:58Z
+last-modified:  2013-09-16T16:12:58Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 77.122.201.5
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.122.128.0 - 77.122.255.255'
+
+% Abuse contact for '77.122.128.0 - 77.122.255.255' is 'abuse@volia.net'
+
+inetnum:        77.122.128.0 - 77.122.255.255
+netname:        VOLIA-KROG
+descr:          Volia Krivoy Rog
+country:        UA
+admin-c:        AVM80-RIPE
+tech-c:         AVM80-RIPE
+status:         ASSIGNED PA
+mnt-by:         VOLIA-MNT
+created:        2010-10-31T18:54:51Z
+last-modified:  2011-08-17T09:25:01Z
+source:         RIPE
+
+person:         Alexander V. Mitevskiy
+address:        "Ricona" Ltd
+address:        1 Lermontova avenue
+address:        Krivoy Rog 50001
+address:        Ukraine
+address:        UA
+phone:          +380 564 728645
+fax-no:         +380 564 428557
+nic-hdl:        AVM80-RIPE
+created:        2004-11-23T12:00:36Z
+last-modified:  2016-04-06T17:37:51Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+% Information related to '77.122.192.0/20AS25229'
+
+route:          77.122.192.0/20
+descr:          Volia Krivoy Rog
+origin:         AS25229
+mnt-by:         VOLIA-MNT
+created:        2013-09-23T14:14:53Z
+last-modified:  2013-09-23T14:14:53Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 95.85.104.59
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.85.104.0 - 95.85.104.255'
+
+% Abuse contact for '95.85.104.0 - 95.85.104.255' is 'alex@telecom.tm'
+
+inetnum:        95.85.104.0 - 95.85.104.255
+netname:        TTELECOM-NET
+descr:          Leased line customers
+country:        TM
+admin-c:        AG10592-RIPE
+tech-c:         AG10592-RIPE
+status:         ASSIGNED PA
+mnt-by:         TMTELECOM-NCC-MNT
+created:        2016-10-13T06:04:15Z
+last-modified:  2016-10-13T06:04:15Z
+source:         RIPE
+
+person:         Alex Grigoriev
+address:        16, Azady str., Ashgabad 744000, Turkmenistan
+phone:          +99365707202
+nic-hdl:        AG10592-RIPE
+created:        2010-10-26T22:21:40Z
+last-modified:  2014-08-29T10:57:44Z
+source:         RIPE
+mnt-by:         TMTELECOM-NCC-MNT
+
+% Information related to '95.85.104.0/23AS20661'
+
+route:          95.85.104.0/23
+descr:          Customer networks
+origin:         AS20661
+mnt-by:         TMTELECOM-NCC-MNT
+created:        2017-11-13T09:42:33Z
+last-modified:  2017-11-13T09:42:33Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 212.96.86.84
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.96.79.0 - 212.96.95.255'
+
+% Abuse contact for '212.96.79.0 - 212.96.95.255' is 'abuse@swip.net'
+
+inetnum:        212.96.79.0 - 212.96.95.255
+netname:        KZ-MBB-TELE2
+descr:          Mobile Services
+                **********************************************
+                In case of improper use originating from our
+                network, please mail Tele2 Security at
+                <abuse_kz@tele2.com>
+                ***********************************************
+country:        KZ
+language:       RU
+geoloc:         51.17934297928927 71.455078125
+admin-c:        SWIP-RIPE
+tech-c:         SWIP-RIPE
+status:         ASSIGNED PA
+mnt-by:         SWIPNET-LIR-MNT
+mnt-lower:      SWIPNET-LIR-MNT
+created:        2014-07-22T06:03:40Z
+last-modified:  2014-09-11T10:56:00Z
+source:         RIPE
+
+role:           Swipnet Staff
+address:        Tele2 AB/Swedish IP Network
+address:        IP Registry
+address:        Torshamnsgatan 17 164 40 Kista SWEDEN
+phone:          +46 8 5626 40 00
+fax-no:         +46 8 5626 42 10
+abuse-mailbox:  abuse@swip.net
+remarks:        The database object describes the staff of SWIPNET LIR.
+admin-c:        NEKA-RIPE
+admin-c:        ROSI3-RIPE
+admin-c:        TH6544-RIPE
+tech-c:         NEKA-RIPE
+tech-c:         ROSI3-RIPE
+tech-c:         TH6544-RIPE
+nic-hdl:        SWIP-RIPE
+mnt-by:         SWIPNET-LIR-MNT
+created:        2002-03-21T14:25:04Z
+last-modified:  2018-02-14T07:30:51Z
+source:         RIPE # Filtered
+
+% Information related to '212.96.86.0/24AS48503'
+
+route:          212.96.86.0/24
+descr:          Tele2 AB
+descr:          TELE2-KZ
+                #####################################################
+                In case of improper use originating from our network,
+                please mail <abuse_kz@tele2.com>
+                ####################################################
+origin:         AS48503
+mnt-by:         SWIPNET-LIR-MNT
+created:        2014-10-06T08:31:43Z
+last-modified:  2014-10-06T08:31:43Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 85.26.233.217
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '85.26.232.0 - 85.26.235.255'
+
+% Abuse contact for '85.26.232.0 - 85.26.235.255' is 'abuse-mailbox@megafon.ru'
+
+inetnum:        85.26.232.0 - 85.26.235.255
+netname:        CUSTOMERS-GPRS-LAN
+descr:          CORP
+descr:          MGSM
+country:        RU
+admin-c:        MVLG-RIPE
+tech-c:         MVLG-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+mnt-by:         MGSM-MNT
+created:        2011-02-04T12:51:18Z
+last-modified:  2011-12-14T11:48:19Z
+source:         RIPE
+
+role:           Volga Branch of OJSC MegaFon NOC
+address:        Moskovskoe shosse, 15
+address:        443080, Samara, Russia
+admin-c:        MYC12-RIPE
+tech-c:         MYC12-RIPE
+nic-hdl:        MVLG-RIPE
+mnt-by:         MGSM-MNT
+created:        2011-04-29T12:08:45Z
+last-modified:  2016-08-26T05:20:19Z
+source:         RIPE # Filtered
+
+% Information related to '85.26.232.0/23AS31133'
+
+route:          85.26.232.0/23
+descr:          Volga Branch of PJSC MegaFon
+origin:         AS31133
+mnt-by:         MGSM-MNT
+created:        2016-09-22T09:43:33Z
+last-modified:  2016-09-22T09:43:33Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 87.117.189.113
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '87.117.176.0 - 87.117.191.255'
+
+% Abuse contact for '87.117.176.0 - 87.117.191.255' is 'abuse@rt.ru'
+
+inetnum:        87.117.176.0 - 87.117.191.255
+netname:        TELESET-KAZAN
+descr:          TELESET LLC
+remarks:        INFRA-AW
+country:        RU
+admin-c:        KVV-RIPE
+tech-c:         KVV-RIPE
+status:         ASSIGNED PA
+mnt-by:         TELESET-MNTNR
+created:        2010-05-20T08:49:22Z
+last-modified:  2010-06-07T06:50:27Z
+source:         RIPE # Filtered
+
+person:         Vyacheslav V Korneyev
+address:        Telecet Co.
+address:        8, Rakhimov St.
+address:        420006 Kazan
+address:        Russia
+phone:          +7 8435 259915
+phone:          +7 8435 159952
+fax-no:         +7 8435 121012
+nic-hdl:        KVV-RIPE
+mnt-by:         TELESET-MNTNR
+created:        2002-03-21T05:54:07Z
+last-modified:  2018-04-03T14:10:47Z
+source:         RIPE # Filtered
+
+% Information related to '87.117.189.0/24AS24810'
+
+route:          87.117.189.0/24
+descr:          Teleset Company. City of Kazan.
+origin:         AS24810
+mnt-by:         TELESET-MNTNR
+created:        2007-10-01T13:14:41Z
+last-modified:  2010-05-31T11:56:32Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 41.109.90.208
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '41.109.64.0 - 41.109.95.255'
+
+% No abuse contact registered for 41.109.64.0 - 41.109.95.255
+
+inetnum:        41.109.64.0 - 41.109.95.255
+netname:        BLIDA
+descr:          résidentiel
+country:        DZ
+admin-c:        SD6-AFRINIC
+tech-c:         SD6-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         DJAWEB-MNT
+source:         AFRINIC # Filtered
+parent:         41.96.0.0 - 41.111.255.255
+
+person:         Security Departement
+address:        Alger
+phone:          tel:+213-21-91-12-24
+fax-no:         tel:+213-21-91-12-08
+nic-hdl:        SD6-AFRINIC
+mnt-by:         GENERATED-IRIXFFLWUREDGEB9HMRODGUJH3OJCIPE-MNT
+source:         AFRINIC # Filtered
+
+% Information related to '41.96.0.0/12AS36947'
+
+route:          41.96.0.0/12
+descr:          Algerie Telecom
+origin:         AS36947
+mnt-by:         DJAWEB-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 77.111.244.71
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.111.244.0 - 77.111.244.255'
+
+% Abuse contact for '77.111.244.0 - 77.111.244.255' is 'abuse@hernlabs.se'
+
+inetnum:        77.111.244.0 - 77.111.244.255
+netname:        HERNLABS
+country:        SE
+admin-c:        HLN412-RIPE
+tech-c:         HLN412-RIPE
+abuse-c:        ACRO10700-RIPE
+status:         SUB-ALLOCATED PA
+mnt-by:         HERNLABS-MNT
+created:        2017-11-27T15:47:37Z
+last-modified:  2017-11-27T15:48:37Z
+source:         RIPE
+
+person:         Hern Labs Netops
+address:        Repslagaregatan 21
+address:        582 22 Link▒ping
+address:        Sweden
+phone:          +48 887 350 900
+nic-hdl:        HLN412-RIPE
+mnt-by:         OPERA-MNT
+created:        2017-11-27T14:36:32Z
+last-modified:  2017-11-27T14:36:32Z
+source:         RIPE # Filtered
+
+% Information related to '77.111.244.0/24AS205016'
+
+route:          77.111.244.0/24
+mnt-lower:      HERNLABS-MNT
+origin:         AS205016
+mnt-by:         OPERA-MNT
+created:        2017-11-27T12:48:00Z
+last-modified:  2017-11-27T15:56:06Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 95.59.166.8
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.59.166.0 - 95.59.166.255'
+
+% Abuse contact for '95.59.166.0 - 95.59.166.255' is 'abuse@telecom.kz'
+
+inetnum:        95.59.166.0 - 95.59.166.255
+netname:        KOSTMETRO
+descr:          JSC Kazakhtelecom, Kostanay Affiliate
+descr:          Metro Ethernet Network
+country:        KZ
+admin-c:        NY94-RIPE
+tech-c:         NY94-RIPE
+status:         ASSIGNED PA
+mnt-by:         KNIC-MNT
+created:        2009-09-09T09:48:29Z
+last-modified:  2009-09-09T09:48:29Z
+source:         RIPE
+
+person:         Nushtaev Yuriy
+address:        JSC Kazakhtelecom, Kostanay Affiliate
+address:        Metro Ethernet Network
+address:        56 Tarana Str., Kostanay, 110000
+address:        Kazakhstan
+phone:          +7 7142 573353
+phone:          +7 7142 573353
+nic-hdl:        NY94-RIPE
+created:        2007-07-23T11:19:37Z
+last-modified:  2016-04-06T22:14:06Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+% Information related to '95.59.166.0/24AS9198'
+
+route:          95.59.166.0/24
+descr:          Kazakhtelecom Data Network Administration
+origin:         AS9198
+mnt-by:         KNIC-MNT
+created:        2012-05-16T11:02:48Z
+last-modified:  2012-05-16T11:02:48Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 77.122.201.5
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.122.128.0 - 77.122.255.255'
+
+% Abuse contact for '77.122.128.0 - 77.122.255.255' is 'abuse@volia.net'
+
+inetnum:        77.122.128.0 - 77.122.255.255
+netname:        VOLIA-KROG
+descr:          Volia Krivoy Rog
+country:        UA
+admin-c:        AVM80-RIPE
+tech-c:         AVM80-RIPE
+status:         ASSIGNED PA
+mnt-by:         VOLIA-MNT
+created:        2010-10-31T18:54:51Z
+last-modified:  2011-08-17T09:25:01Z
+source:         RIPE
+
+person:         Alexander V. Mitevskiy
+address:        "Ricona" Ltd
+address:        1 Lermontova avenue
+address:        Krivoy Rog 50001
+address:        Ukraine
+address:        UA
+phone:          +380 564 728645
+fax-no:         +380 564 428557
+nic-hdl:        AVM80-RIPE
+created:        2004-11-23T12:00:36Z
+last-modified:  2016-04-06T17:37:51Z
+mnt-by:         RIPE-NCC-LOCKED-MNT
+source:         RIPE # Filtered
+
+% Information related to '77.122.192.0/20AS25229'
+
+route:          77.122.192.0/20
+descr:          Volia Krivoy Rog
+origin:         AS25229
+mnt-by:         VOLIA-MNT
+created:        2013-09-23T14:14:53Z
+last-modified:  2013-09-23T14:14:53Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 95.85.104.59
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.85.104.0 - 95.85.104.255'
+
+% Abuse contact for '95.85.104.0 - 95.85.104.255' is 'alex@telecom.tm'
+
+inetnum:        95.85.104.0 - 95.85.104.255
+netname:        TTELECOM-NET
+descr:          Leased line customers
+country:        TM
+admin-c:        AG10592-RIPE
+tech-c:         AG10592-RIPE
+status:         ASSIGNED PA
+mnt-by:         TMTELECOM-NCC-MNT
+created:        2016-10-13T06:04:15Z
+last-modified:  2016-10-13T06:04:15Z
+source:         RIPE
+
+person:         Alex Grigoriev
+address:        16, Azady str., Ashgabad 744000, Turkmenistan
+phone:          +99365707202
+nic-hdl:        AG10592-RIPE
+created:        2010-10-26T22:21:40Z
+last-modified:  2014-08-29T10:57:44Z
+source:         RIPE
+mnt-by:         TMTELECOM-NCC-MNT
+
+% Information related to '95.85.104.0/23AS20661'
+
+route:          95.85.104.0/23
+descr:          Customer networks
+origin:         AS20661
+mnt-by:         TMTELECOM-NCC-MNT
+created:        2017-11-13T09:42:33Z
+last-modified:  2017-11-13T09:42:33Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 41.143.200.139
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '41.143.192.0 - 41.143.223.255'
+
+% No abuse contact registered for 41.143.192.0 - 41.143.223.255
+
+inetnum:        41.143.192.0 - 41.143.223.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        DMT1-AFRINIC
+tech-c:         SMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         41.140.0.0 - 41.143.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 41.143.200.139
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '41.143.192.0 - 41.143.223.255'
+
+% No abuse contact registered for 41.143.192.0 - 41.143.223.255
+
+inetnum:        41.143.192.0 - 41.143.223.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        DMT1-AFRINIC
+tech-c:         SMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         41.140.0.0 - 41.143.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 109.108.52.172
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.108.32.0 - 109.108.55.255'
+
+% Abuse contact for '109.108.32.0 - 109.108.55.255' is 'abuse@rt.ru'
+
+inetnum:        109.108.32.0 - 109.108.55.255
+netname:        MACROREGIONAL_CENTER
+descr:          OJSC Rostelecom, Ivanovo branch
+descr:          ex-netname: IVTELECOM4-NET
+mnt-lower:      ROSTELECOM-MNT
+mnt-routes:     ROSTELECOM-MNT
+country:        RU
+admin-c:        ALL56-RIPE
+tech-c:         ASV50-RIPE
+tech-c:         AVM71-RIPE
+status:         ASSIGNED PA
+mnt-by:         IVTELECOM-MNT
+created:        2011-02-01T12:31:50Z
+last-modified:  2017-04-21T06:38:14Z
+source:         RIPE # Filtered
+
+person:         Alexandr L Lebedev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        Ivanovo, 153000
+address:        Russian Federation
+phone:          +7 4932 471389
+nic-hdl:        ALL56-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2008-11-06T10:38:30Z
+last-modified:  2016-10-03T13:16:31Z
+source:         RIPE # Filtered
+
+person:         Alexey V Ermolaev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        Ivanovo, 153000
+address:        Russian Federation
+phone:          +7 4932 471822
+nic-hdl:        ASV50-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2008-11-06T10:38:30Z
+last-modified:  2016-10-03T13:17:13Z
+source:         RIPE # Filtered
+
+person:         Alexandr L Lebedev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        153000 Russia Ivanovo
+phone:          +7 4932 471389
+nic-hdl:        AVM71-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2004-05-14T06:17:06Z
+last-modified:  2016-10-03T13:10:43Z
+source:         RIPE # Filtered
+
+% Information related to '109.108.32.0/19AS24699'
+
+route:          109.108.32.0/19
+descr:          Static pool
+mnt-lower:      ROSTELECOM-MNT
+mnt-routes:     ROSTELECOM-MNT
+origin:         AS24699
+mnt-by:         IVTELECOM-MNT
+created:        2009-10-27T06:18:10Z
+last-modified:  2017-04-21T06:39:19Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 109.108.52.172
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.108.32.0 - 109.108.55.255'
+
+% Abuse contact for '109.108.32.0 - 109.108.55.255' is 'abuse@rt.ru'
+
+inetnum:        109.108.32.0 - 109.108.55.255
+netname:        MACROREGIONAL_CENTER
+descr:          OJSC Rostelecom, Ivanovo branch
+descr:          ex-netname: IVTELECOM4-NET
+mnt-lower:      ROSTELECOM-MNT
+mnt-routes:     ROSTELECOM-MNT
+country:        RU
+admin-c:        ALL56-RIPE
+tech-c:         ASV50-RIPE
+tech-c:         AVM71-RIPE
+status:         ASSIGNED PA
+mnt-by:         IVTELECOM-MNT
+created:        2011-02-01T12:31:50Z
+last-modified:  2017-04-21T06:38:14Z
+source:         RIPE # Filtered
+
+person:         Alexandr L Lebedev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        Ivanovo, 153000
+address:        Russian Federation
+phone:          +7 4932 471389
+nic-hdl:        ALL56-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2008-11-06T10:38:30Z
+last-modified:  2016-10-03T13:16:31Z
+source:         RIPE # Filtered
+
+person:         Alexey V Ermolaev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        Ivanovo, 153000
+address:        Russian Federation
+phone:          +7 4932 471822
+nic-hdl:        ASV50-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2008-11-06T10:38:30Z
+last-modified:  2016-10-03T13:17:13Z
+source:         RIPE # Filtered
+
+person:         Alexandr L Lebedev
+address:        Ivanovo branch "ROSTELECOM"
+address:        10-th, August Street, 1
+address:        153000 Russia Ivanovo
+phone:          +7 4932 471389
+nic-hdl:        AVM71-RIPE
+mnt-by:         IVTELECOM-MNT
+created:        2004-05-14T06:17:06Z
+last-modified:  2016-10-03T13:10:43Z
+source:         RIPE # Filtered
+
+% Information related to '109.108.32.0/19AS24699'
+
+route:          109.108.32.0/19
+descr:          Static pool
+mnt-lower:      ROSTELECOM-MNT
+mnt-routes:     ROSTELECOM-MNT
+origin:         AS24699
+mnt-by:         IVTELECOM-MNT
+created:        2009-10-27T06:18:10Z
+last-modified:  2017-04-21T06:39:19Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (HEREFORD)
+
+
+[mfedoseev@munin ~]$ whois 105.156.244.112
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '105.156.0.0 - 105.156.255.255'
+
+% No abuse contact registered for 105.156.0.0 - 105.156.255.255
+
+inetnum:        105.156.0.0 - 105.156.255.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        DMT1-AFRINIC
+tech-c:         SMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         105.128.0.0 - 105.159.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 105.156.244.112
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '105.156.0.0 - 105.156.255.255'
+
+% No abuse contact registered for 105.156.0.0 - 105.156.255.255
+
+inetnum:        105.156.0.0 - 105.156.255.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        DMT1-AFRINIC
+tech-c:         SMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         105.128.0.0 - 105.159.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 197.48.114.51
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '197.48.0.0 - 197.55.255.255'
+
+% No abuse contact registered for 197.48.0.0 - 197.55.255.255
+
+inetnum:        197.48.0.0 - 197.55.255.255
+netname:        All-22
+descr:          TE Data
+country:        EG
+admin-c:        TDCR1-AFRINIC
+tech-c:         TDCR2-AFRINIC
+status:         ASSIGNED PA
+remarks:        ====================================================
+remarks:        For Internet Abuse & Spam reports : admins@tedata.net
+remarks:        ====================================================
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+parent:         197.32.0.0 - 197.63.255.255
+
+role:           TE Data Contact Role
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR1-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+role:           TE Data Contact Role-2
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR2-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 62.133.162.49
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.133.160.0 - 62.133.163.31'
+
+% Abuse contact for '62.133.160.0 - 62.133.163.31' is 'abuse@bashtel.ru'
+
+inetnum:        62.133.160.0 - 62.133.163.31
+netname:        RU-BASHTEL
+descr:          Bashinformsvyaz company
+descr:          Russia, Bashkortostan Republic, Ufa,
+descr:          450000, Lenina street, 32
+country:        RU
+admin-c:        SSM18-RIPE
+tech-c:         SSM18-RIPE
+status:         ASSIGNED PA
+mnt-by:         RUMS-MNT
+created:        2013-03-06T10:52:32Z
+last-modified:  2017-12-06T09:18:49Z
+source:         RIPE
+
+person:         Stanislav S. Makarov
+address:        PJSC "Bashinformsvyaz"
+address:        Lenin street, 30
+address:        RUSSIA, 450000, Ufa city
+phone:          +7 3472 215999
+nic-hdl:        SSM18-RIPE
+created:        2004-11-22T07:45:45Z
+last-modified:  2016-09-15T09:49:23Z
+source:         RIPE # Filtered
+mnt-by:         RUMS-MNT
+mnt-by:         BASHNET-MNT
+
+% Information related to '62.133.160.0/21AS28812'
+
+route:          62.133.160.0/21
+descr:          RU, Ufa, JSC Bashinformsvyaz, UGTS
+origin:         AS28812
+mnt-by:         RUMS-MNT
+created:        2003-08-06T10:35:02Z
+last-modified:  2003-08-06T10:35:02Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 43.230.93.248
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '43.230.93.0 - 43.230.93.255'
+
+% Abuse contact for '43.230.93.0 - 43.230.93.255' is 'abuse@ebonenet.com'
+
+inetnum:        43.230.93.0 - 43.230.93.255
+netname:        EBONE1-PK
+descr:          Ebone Network (Pvt) Ltd.
+country:        PK
+admin-c:        AR348-AP
+tech-c:         AR348-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-EBONE1-PK
+mnt-irt:        IRT-EBONE1-PK
+last-modified:  2016-02-22T22:10:45Z
+source:         APNIC
+
+irt:            IRT-EBONE1-PK
+address:        Plot # B-85, Block 10, Gulshan-e-Iqbal., Karachi Sindh 75300
+e-mail:         abuse@ebonenet.com
+abuse-mailbox:  abuse@ebonenet.com
+admin-c:        ENA18-AP
+tech-c:         ENA18-AP
+auth:           # Filtered
+mnt-by:         MAINT-EBONE1-PK
+last-modified:  2013-04-12T07:02:00Z
+source:         APNIC
+
+person:         Abdul Rahim
+address:        Plot # B-85, Block 10, Gulshan-e-Iqbal., Karachi Sindh 75300
+country:        PK
+phone:          +923008278474
+e-mail:         cto@ebonenet.com
+nic-hdl:        AR348-AP
+mnt-by:         MAINT-EBONE1-PK
+last-modified:  2017-11-10T08:14:22Z
+source:         APNIC
+
+% Information related to '43.230.92.0/22AS58895'
+
+route:          43.230.92.0/22
+origin:         AS58895
+descr:          Ebone Network (PVT.) Limited
+                Plot # B-85, Block 10, Gulshan-e-Iqbal.
+mnt-by:         MAINT-EBONE1-PK
+last-modified:  2017-02-11T07:01:02Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK3)
+
+
+[mfedoseev@munin ~]$ ^C
+[mfedoseev@munin ~]$ whois 77.111.244.71
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.111.244.0 - 77.111.244.255'
+
+% Abuse contact for '77.111.244.0 - 77.111.244.255' is 'abuse@hernlabs.se'
+
+inetnum:        77.111.244.0 - 77.111.244.255
+netname:        HERNLABS
+country:        SE
+admin-c:        HLN412-RIPE
+tech-c:         HLN412-RIPE
+abuse-c:        ACRO10700-RIPE
+status:         SUB-ALLOCATED PA
+mnt-by:         HERNLABS-MNT
+created:        2017-11-27T15:47:37Z
+last-modified:  2017-11-27T15:48:37Z
+source:         RIPE
+
+person:         Hern Labs Netops
+address:        Repslagaregatan 21
+address:        582 22 Link▒ping
+address:        Sweden
+phone:          +48 887 350 900
+nic-hdl:        HLN412-RIPE
+mnt-by:         OPERA-MNT
+created:        2017-11-27T14:36:32Z
+last-modified:  2017-11-27T14:36:32Z
+source:         RIPE # Filtered
+
+% Information related to '77.111.244.0/24AS205016'
+
+route:          77.111.244.0/24
+mnt-lower:      HERNLABS-MNT
+origin:         AS205016
+mnt-by:         OPERA-MNT
+created:        2017-11-27T12:48:00Z
+last-modified:  2017-11-27T15:56:06Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (WAGYU)
+
+
+[mfedoseev@munin ~]$ whois 197.48.114.51
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '197.48.0.0 - 197.55.255.255'
+
+% No abuse contact registered for 197.48.0.0 - 197.55.255.255
+
+inetnum:        197.48.0.0 - 197.55.255.255
+netname:        All-22
+descr:          TE Data
+country:        EG
+admin-c:        TDCR1-AFRINIC
+tech-c:         TDCR2-AFRINIC
+status:         ASSIGNED PA
+remarks:        ====================================================
+remarks:        For Internet Abuse & Spam reports : admins@tedata.net
+remarks:        ====================================================
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+parent:         197.32.0.0 - 197.63.255.255
+
+role:           TE Data Contact Role
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR1-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+role:           TE Data Contact Role-2
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR2-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 195.91.175.209
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.91.175.0 - 195.91.175.255'
+
+% Abuse contact for '195.91.175.0 - 195.91.175.255' is 'abuse@rinet.ru'
+
+inetnum:        195.91.175.0 - 195.91.175.255
+netname:        RINET-NEIB-175-NET
+descr:          RiNet Home Networks
+descr:          RiNet ISP Neighbourhood
+descr:          Moscow
+country:        RU
+admin-c:        RNH-RIPE
+tech-c:         RNH-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+mnt-by:         RINET-MNT
+created:        2008-02-03T12:36:26Z
+last-modified:  2008-02-03T12:36:26Z
+source:         RIPE
+
+role:           RiNet Home-Residential Networks NOC
+address:        RiNet NOC, Home/Residential Dept.
+address:        Cronyx Plus Ltd (RiNet ISP)
+address:        Off.111, Bld.11a, 1st Khvostov Lane
+address:        Moscow 119180 RU
+phone:          +7 (495) 287-0877
+fax-no:         +7 (495) 783-9181
+abuse-mailbox:  abuse@rinet.ru
+remarks:        ----------------------------------------------
+remarks:        NOC working hours:
+remarks:        10am-10pm MSK/MSD (GMT+3/+4) everyday
+remarks:        ----------------------------------------------
+remarks:        Contact addresses by category:
+remarks:        Routing:                          noc@rinet.ru
+remarks:        Domains/IP delegation:     hostmaster@rinet.ru
+remarks:        SPAM/UCE:                       abuse@rinet.ru
+remarks:        Scans/Hacking attempts:      security@rinet.ru
+remarks:        Mail:                      postmaster@rinet.ru
+remarks:        ----------------------------------------------
+admin-c:        SIR-RIPE
+admin-c:        MCK-RIPE
+tech-c:         MCK-RIPE
+tech-c:         OBUL-RIPE
+tech-c:         DF254-RIPE
+tech-c:         RHM-RIPE
+nic-hdl:        RNH-RIPE
+remarks:        $Revision: 1.10 $
+mnt-by:         RINET-MNT
+created:        2003-06-17T11:45:07Z
+last-modified:  2015-04-09T16:00:13Z
+source:         RIPE # Filtered
+
+% Information related to '195.91.128.0/17AS8331'
+
+route:          195.91.128.0/17
+descr:          CRONYX
+origin:         AS8331
+mnt-by:         RINET-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2002-12-11T10:38:16Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (BLAARKOP)
+
+
+[mfedoseev@munin ~]$ whois 197.49.200.129
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '197.48.0.0 - 197.55.255.255'
+
+% No abuse contact registered for 197.48.0.0 - 197.55.255.255
+
+inetnum:        197.48.0.0 - 197.55.255.255
+netname:        All-22
+descr:          TE Data
+country:        EG
+admin-c:        TDCR1-AFRINIC
+tech-c:         TDCR2-AFRINIC
+status:         ASSIGNED PA
+remarks:        ====================================================
+remarks:        For Internet Abuse & Spam reports : admins@tedata.net
+remarks:        ====================================================
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+parent:         197.32.0.0 - 197.63.255.255
+
+role:           TE Data Contact Role
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR1-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+role:           TE Data Contact Role-2
+address:        94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:          tel:+20-2-33320700
+fax-no:         tel:+20-2-33320800
+admin-c:        TDCR2-AFRINIC
+tech-c:         MH7-AFRINIC
+nic-hdl:        TDCR2-AFRINIC
+abuse-mailbox:  abuse@tedata.net
+mnt-by:         TE-Data-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 31.185.12.172
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.185.12.0 - 31.185.12.255'
+
+% Abuse contact for '31.185.12.0 - 31.185.12.255' is 'noc@vistcom.ru'
+
+inetnum:        31.185.12.0 - 31.185.12.255
+netname:        Vist-On-Lne-ISP-31_185_12
+country:        RU
+admin-c:        KK6900-RIPE
+tech-c:         VOL2006-RIPE
+status:         SUB-ALLOCATED PA
+mnt-by:         MNT-VISTCOM-RIPE
+created:        2017-09-15T17:12:48Z
+last-modified:  2017-09-15T17:12:48Z
+source:         RIPE
+
+role:           Vist on-line Contact Role
+address:        400081, 17 ANGARSKAYA, VOLGOGRAD, RUSSIA
+abuse-mailbox:  abuse@vistcom.ru
+admin-c:        MAZ19-RIPE
+tech-c:         MNN8-RIPE
+nic-hdl:        VOL2006-RIPE
+mnt-by:         MNT-VISTCOM-RIPE
+created:        2006-07-25T07:10:28Z
+last-modified:  2014-11-24T08:53:37Z
+source:         RIPE # Filtered
+
+person:         Konstantin Kovalev
+address:        Zemlyachki street, 30a
+address:        400048, Volgograd, Russia
+phone:          +7(8442) 31-93-93
+nic-hdl:        KK6900-RIPE
+mnt-by:         MNT-VISTCOM-RIPE
+created:        2017-09-15T16:54:46Z
+last-modified:  2017-09-15T16:54:46Z
+source:         RIPE
+
+% Information related to '31.185.12.0/24AS41344'
+
+route:          31.185.12.0/24
+origin:         AS41344
+mnt-by:         MNT-VISTCOM-RIPE
+created:        2017-09-15T16:47:22Z
+last-modified:  2017-09-15T16:47:30Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$ whois 36.80.190.27
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '36.80.176.0 - 36.80.191.255'
+
+% Abuse contact for '36.80.176.0 - 36.80.191.255' is 'abuse@telkom.co.id'
+
+inetnum:        36.80.176.0 - 36.80.191.255
+netname:        TLKM_BB_SERVICE_36_80_DIVRE3-4
+descr:          PT TELKOM INDONESIA
+                Menara Multimedia Lt.7
+                Jl. Kebon sirih No.12
+                JAKARTA
+country:        ID
+admin-c:        AZ163-AP
+tech-c:         FS370-AP
+status:         ALLOCATED NON-PORTABLE
+remarks:        These IP was used for PT TELKOM Indonesia's infrastructure
+mnt-by:         MAINT-TELKOMNET
+mnt-lower:      MAINT-TELKOMNET
+mnt-routes:     MAINT-TELKOMNET
+mnt-irt:        IRT-IDTELKOM-ID
+last-modified:  2012-10-02T08:46:34Z
+source:         APNIC
+
+irt:            IRT-IDTELKOM-ID
+address:        PT. TELKOM INDONESIA
+address:        STO Telkom Gambir 3th Floor
+address:        Medan Merdeka Selatan
+address:        JAKARTA
+e-mail:         abuse@telkom.co.id
+abuse-mailbox:  abuse@telkom.co.id
+admin-c:        DF99-AP
+tech-c:         AR165-AP
+auth:           # Filtered
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2015-10-15T05:58:44Z
+source:         APNIC
+
+person:         Akhmad Zaimi
+address:        GSD Lt.14 Jl. Kebon Sirih No.12
+country:        ID
+phone:          +62-21-3860500
+e-mail:         djimie@telkom.co.id
+nic-hdl:        AZ163-AP
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2010-12-20T01:33:46Z
+source:         APNIC
+
+person:         Febrian Setiadi
+address:        GSD Lt 14 Jl. Kebon Sirih No.12
+country:        ID
+phone:          +62-21-3860500
+e-mail:         febrian.setiadi@telkom.co.id
+nic-hdl:        FS370-AP
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2010-12-20T01:30:54Z
+source:         APNIC
+
+% Information related to '36.80.176.0/20AS17974'
+
+route:          36.80.176.0/20
+descr:          PT. TELKOM INDONESIA
+descr:          JAKARTA
+country:        ID
+origin:         AS17974
+mnt-by:         MAINT-TELKOMNET
+last-modified:  2015-05-27T03:32:22Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-UK3)
+
+
+[mfedoseev@munin ~]$ whois
+jwhois версия 4.0, Copyright (C) 1999-2007  Free Software Foundation, Inc.
+Эта программа является свободным программным обеспечением с АБСОЛЮТНЫМ
+ОТСУТСТВИЕМ ГАРАНТИИ; вы можете распространять её под условиями
+Генеральной Общедоступной Лицензии GNU.
+
+Использование: jwhois [ПАРАМЕТРЫ] [ЗАПРОС]
+  --version                  display version number and patch level
+  --help                     display this help
+  -v, --verbose              verbose debug output
+  -c FILE, --config=FILE     use FILE as configuration file
+  -h HOST, --host=HOST       explicitly query HOST
+  -n, --no-redirect          disable content redirection
+  -s, --no-whoisservers      disable whois-servers.net service support
+  -a, --raw                  disable reformatting of the query
+  -i, --display-redirections display all redirects instead of hiding them
+  -p PORT, --port=PORT       use port number PORT (in conjunction with HOST)
+  -r, --rwhois               force an rwhois query to be made
+  --rwhois-display=DISPLAY   sets the display option in rwhois queries
+  --rwhois-limit=LIMIT       sets the maximum number of matches to return
+
+
+Сообщать об ошибкаx на bug-jwhois@gnu.org
+[mfedoseev@munin ~]$ whois
+jwhois версия 4.0, Copyright (C) 1999-2007  Free Software Foundation, Inc.
+Эта программа является свободным программным обеспечением с АБСОЛЮТНЫМ
+ОТСУТСТВИЕМ ГАРАНТИИ; вы можете распространять её под условиями
+Генеральной Общедоступной Лицензии GNU.
+
+Использование: jwhois [ПАРАМЕТРЫ] [ЗАПРОС]
+  --version                  display version number and patch level
+  --help                     display this help
+  -v, --verbose              verbose debug output
+  -c FILE, --config=FILE     use FILE as configuration file
+  -h HOST, --host=HOST       explicitly query HOST
+  -n, --no-redirect          disable content redirection
+  -s, --no-whoisservers      disable whois-servers.net service support
+  -a, --raw                  disable reformatting of the query
+  -i, --display-redirections display all redirects instead of hiding them
+  -p PORT, --port=PORT       use port number PORT (in conjunction with HOST)
+  -r, --rwhois               force an rwhois query to be made
+  --rwhois-display=DISPLAY   sets the display option in rwhois queries
+  --rwhois-limit=LIMIT       sets the maximum number of matches to return
+
+
+Сообщать об ошибкаx на bug-jwhois@gnu.org
+[mfedoseev@munin ~]$ whois 105.156.244.112
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '105.156.0.0 - 105.156.255.255'
+
+% No abuse contact registered for 105.156.0.0 - 105.156.255.255
+
+inetnum:        105.156.0.0 - 105.156.255.255
+netname:        ADSL_Maroc_telecom
+descr:          ADSL_Maroc_telecom
+country:        MA
+admin-c:        DMT1-AFRINIC
+tech-c:         SMT1-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         ONPT-MNT
+source:         AFRINIC # Filtered
+parent:         105.128.0.0 - 105.159.255.255
+
+person:         DEMPFS Maroc Telecom
+address:        Division Exploitation et maintenance des PFS
+address:        MAROC TELECOM
+address:        Avenue de France AGDAL
+address:        Immeuble DR Rabat
+phone:          tel:+212-37686318
+nic-hdl:        DMT1-AFRINIC
+mnt-by:         GENERATED-59UQAQ1UAZKQWKK5GWNQRJ9VGMHDFDGD-MNT
+source:         AFRINIC # Filtered
+
+person:         SEPFS Maroc Telecom
+address:        Service Exploitation des PFS
+address:        MAROC TELECOM
+address:        Avenue Hay Annakhil Riad
+address:        rabat
+address:        Morocco
+phone:          tel:+212-37284314
+phone:          tel:+212-37284319
+nic-hdl:        SMT1-AFRINIC
+mnt-by:         GENERATED-QKJHRQGRJU8KJEZGF62S2JCUXLD0D81A-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$ whois 197.211.53.241
+[Querying whois.afrinic.net]
+[whois.afrinic.net]
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '197.211.53.0 - 197.211.53.255'
+
+% No abuse contact registered for 197.211.53.0 - 197.211.53.255
+
+inetnum:        197.211.53.0 - 197.211.53.255
+netname:        GLOMOBILE
+descr:          GLOMOBILE
+country:        NG
+admin-c:        PA2-AFRINIC
+tech-c:         PA2-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         GLO-ONLINE-ADMIN
+source:         AFRINIC # Filtered
+parent:         197.211.32.0 - 197.211.63.255
+
+person:         Prasoon Agarwal
+address:        1- Mike Adenuga Close, Victoria Island
+address:        Lagos
+address:        Lagos
+address:        Nigeria
+phone:          tel:+234-805-557-1050
+phone:          tel:+234-805-557-4458
+phone:          tel:+234-805-557-4458
+nic-hdl:        PA2-AFRINIC
+mnt-by:         GENERATED-UZTCTD5VGK2EFW6UYFASG27JFJHXEZUQ-MNT
+source:         AFRINIC # Filtered
+
+
+
+[mfedoseev@munin ~]$
+Display all 1571 possibilities? (y or n)
+[mfedoseev@munin ~]$ whois 178.91.18.5
+[Querying whois.ripe.net]
+[whois.ripe.net]
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.91.16.0 - 178.91.23.255'
+
+% Abuse contact for '178.91.16.0 - 178.91.23.255' is 'abuse@telecom.kz'
+
+inetnum:        178.91.16.0 - 178.91.23.255
+netname:        MTNMCKAZAKTELECOMJSC
+descr:          JSC Kazakhtelecom, Kazakhstan Online Backbone
+descr:          For NAT/Almaty
+remarks:        INFRA-AW
+country:        KZ
+admin-c:        KNIC1-RIPE
+tech-c:         KNIC1-RIPE
+status:         ASSIGNED PA
+mnt-by:         KNIC-MNT
+created:        2015-09-16T03:05:26Z
+last-modified:  2015-09-16T03:05:26Z
+source:         RIPE
+
+role:           Kazakhtelecom Network Information Center
+address:        Kazakhtelecom Corporate sales administration
+address:        129 Panfilov
+address:        Almaty 050000
+address:        Kazakhstan
+mnt-by:         KNIC-MNT
+phone:          +7 727 2588254
+phone:          +7 727 2587977
+fax-no:         +7 727 2585855
+abuse-mailbox:  abuse@telecom.kz
+remarks:        trouble:Questions and bug reports ... mailto: nic@online.kz
+tech-c:         DZ810-RIPE
+nic-hdl:        KNIC1-RIPE
+remarks:        Please call us 09:00 - 12:00 UTC only
+created:        1970-01-01T00:00:00Z
+last-modified:  2016-02-04T09:00:31Z
+source:         RIPE # Filtered
+
+% Information related to '178.91.16.0/22AS9198'
+
+route:          178.91.16.0/22
+descr:          Megaline Kokshetav
+origin:         AS9198
+mnt-by:         KNIC-MNT
+created:        2010-11-22T11:01:00Z
+last-modified:  2010-11-22T11:01:00Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.91.1 (ANGUS)
+
+
+[mfedoseev@munin ~]$

@@ -1,0 +1,73 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Like tears in the rain</title>
+  <meta name="description" content="Rain in .js">
+  <meta name="author" content="Mike F">
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.js"></script>
+
+</head>
+
+<body>
+
+<style> * {margin: 0; padding: 0} </style>
+
+<script type="text/javascript">
+
+var canvasSizeX = window.innerWidth;
+var canvasSizeY = window.innerHeight;
+
+var dropLenght = 3;
+var dropMinSpeed = 5;
+var dropMaxSpeed = 15;
+var dropsCount = 700;
+
+var drops = [];
+
+
+function Drop(x, y) {
+    this.x = x;
+    this.y = y;
+    this.speed = random(dropMinSpeed, dropMaxSpeed);
+
+    this.fall = function() {
+        this.y += this.speed;
+        if (this.y > height) {
+            this.y = random(-height);
+            this.speed = random(dropMinSpeed, dropMaxSpeed);
+        }
+
+    }
+
+    this.show = function(){
+        stroke(138, 43, 226);
+        line(this.x, this.y, this.x, this.y + dropLenght * this.speed);    
+    }
+}
+
+function setup(){
+    createCanvas(canvasSizeX, canvasSizeY);
+    
+    for (i = 0; i < dropsCount; i++) { 
+        drops.push(new Drop(random(width), random(-height*3)));   
+    }
+}
+
+function draw() {
+    background(0, 0, 0);
+    for (i = 0; i < drops.length; i++) {
+        drops[i].fall();
+        drops[i].show();
+    }
+}
+
+
+</script>
+
+</body>
+
+</html>

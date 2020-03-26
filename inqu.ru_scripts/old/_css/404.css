@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.5em;
+    color: rgb(180, 180, 180);
+    background-color: #464646;
+}
+
+#message {
+    padding: 10px;
+    border-top: 10px solid red;
+}
+
+#message>h1 {
+    font-family: 'Amatic SC', cursive;
+}
+
+#message>p>span {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 0px 7px;
+}

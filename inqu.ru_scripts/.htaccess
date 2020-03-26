@@ -1,0 +1,14 @@
+# Запретить индексацию директорий
+Options -Indexes
+
+# Перенаправление с 80 порта на 443
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://inqu.ru/$1 [R,L]
+
+# Своя сраница 404
+ErrorDocument 404 /404.html
+
+ServerSignature Off
+
+php_value display_errors 1
